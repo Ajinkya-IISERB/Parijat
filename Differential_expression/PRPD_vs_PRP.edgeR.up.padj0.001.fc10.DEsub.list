@@ -1,0 +1,540 @@
+TRINITY_DN122459_c0_g1	XTH33_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 33 {ECO:0000303|PubMed:12514239}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G10550
+TRINITY_DN127683_c0_g1	.	.	.	.
+TRINITY_DN131766_c0_g1	YCF2_PHAVU	Protein Ycf2 {ECO:0000255|HAMAP-Rule:MF_01330}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:pvu:PhvuCp124`KEGG:pvu:PhvuCp60
+TRINITY_DN146065_c0_g1	.	.	.	.
+TRINITY_DN155614_c0_g1	.	.	.	.
+TRINITY_DN156380_c0_g2	.	.	.	.
+TRINITY_DN164048_c0_g4	.	.	.	.
+TRINITY_DN164387_c0_g1	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN165749_c1_g5	.	.	.	.
+TRINITY_DN165749_c1_g5	.	.	.	.
+TRINITY_DN169771_c0_g1	CHRC1_ONCHC	Chromoplast-specific carotenoid-associated protein C1, chromoplastic	 Viridiplantae; Oncidium	.
+TRINITY_DN176719_c0_g1	.	.	.	.
+TRINITY_DN178941_c0_g1	MT21_BRAJU	Metallothionein-like protein type 2, MT2-4/MT2-25	 Viridiplantae; Brassicaceae; Brassica	.
+TRINITY_DN1804_c0_g1	YCF15_PANGI	Putative uncharacterized protein ycf15	 Viridiplantae; Araliaceae	.
+TRINITY_DN183297_c0_g1	TAR1_YEAST	Protein TAR1	 Fungi	KEGG:sce:YLR154W-C
+TRINITY_DN188194_c0_g2	.	.	.	.
+TRINITY_DN188382_c12_g1	.	.	.	.
+TRINITY_DN188968_c0_g1	.	.	.	.
+TRINITY_DN190100_c0_g1	.	.	.	.
+TRINITY_DN197750_c0_g1	AGT23_ARATH	Alanine--glyoxylate aminotransferase 2 homolog 3, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G08860
+TRINITY_DN197750_c0_g1	AGT23_ARATH	Alanine--glyoxylate aminotransferase 2 homolog 3, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G08860
+TRINITY_DN199070_c0_g2	.	.	.	.
+TRINITY_DN208103_c1_g5	.	.	.	.
+TRINITY_DN208855_c1_g1	GLYI4_ARATH	Glyoxylase I 4 {ECO:0000303|PubMed:30483284, ECO:0000303|PubMed:31652571}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G15380
+TRINITY_DN211415_c0_g1	.	.	.	.
+TRINITY_DN212413_c0_g2	.	.	.	.
+TRINITY_DN216901_c1_g2	.	.	.	.
+TRINITY_DN218777_c0_g2	.	.	.	.
+TRINITY_DN218777_c0_g2	.	.	.	.
+TRINITY_DN218777_c0_g2	.	.	.	.
+TRINITY_DN218777_c0_g2	.	.	.	.
+TRINITY_DN218777_c0_g2	.	.	.	.
+TRINITY_DN218777_c0_g2	.	.	.	.
+TRINITY_DN219105_c0_g6	.	.	.	.
+TRINITY_DN219105_c0_g6	.	.	.	.
+TRINITY_DN219244_c0_g1	U74B1_ARATH	UDP-glycosyltransferase 74B1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G24100
+TRINITY_DN219244_c0_g1	U74B1_ARATH	UDP-glycosyltransferase 74B1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G24100
+TRINITY_DN219294_c0_g7	.	.	.	.
+TRINITY_DN219294_c0_g9	.	.	.	.
+TRINITY_DN220117_c0_g1	RD19A_ARATH	Cysteine protease RD19A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G39090
+TRINITY_DN220117_c0_g1	RD19A_ARATH	Cysteine protease RD19A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G39090
+TRINITY_DN220164_c0_g1	YCF68_ORYNI	Uncharacterized protein ycf68	 Viridiplantae; Oryzinae	.
+TRINITY_DN221607_c0_g2	.	.	.	.
+TRINITY_DN221890_c1_g3	.	.	.	.
+TRINITY_DN222206_c0_g2	.	.	.	.
+TRINITY_DN222206_c0_g2	.	.	.	.
+TRINITY_DN224521_c0_g1	.	.	.	.
+TRINITY_DN225183_c5_g3	.	.	.	.
+TRINITY_DN226587_c0_g1	.	.	.	.
+TRINITY_DN226587_c0_g2	.	.	.	.
+TRINITY_DN226587_c0_g3	.	.	.	.
+TRINITY_DN231063_c1_g3	.	.	.	.
+TRINITY_DN231740_c3_g2	.	.	.	.
+TRINITY_DN233153_c0_g1	.	.	.	.
+TRINITY_DN234732_c0_g2	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN235186_c0_g1	.	.	.	.
+TRINITY_DN235565_c0_g1	SILD_FORIN	Secoisolariciresinol dehydrogenase	 Viridiplantae; Oleaceae; Forsythia	.
+TRINITY_DN235933_c2_g1	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN236159_c0_g1	.	.	.	.
+TRINITY_DN238203_c0_g1	.	.	.	.
+TRINITY_DN238203_c0_g1	.	.	.	.
+TRINITY_DN238413_c0_g1	.	.	.	.
+TRINITY_DN238849_c0_g1	CCDP_MAIZE	Cortical cell-delineating protein	 Viridiplantae; Andropogoneae; Zea	.
+TRINITY_DN238849_c0_g1	14KD_DAUCA	14 kDa proline-rich protein DC2.15	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN238849_c0_g1	14KD_DAUCA	14 kDa proline-rich protein DC2.15	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN238895_c3_g4	.	.	.	.
+TRINITY_DN239008_c0_g1	.	.	.	.
+TRINITY_DN239008_c0_g1	.	.	.	.
+TRINITY_DN239214_c0_g1	GASAB_ARATH	Gibberellin-regulated protein 11	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G18420
+TRINITY_DN239902_c0_g1	ASPA_ARATH	Aspartyl protease family protein At5g10770	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G10770
+TRINITY_DN240135_c0_g1	.	.	.	.
+TRINITY_DN241165_c0_g2	.	.	.	.
+TRINITY_DN241791_c0_g3	.	.	.	.
+TRINITY_DN241890_c0_g1	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN241890_c0_g1	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN241890_c0_g1	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN242337_c0_g1	.	.	.	.
+TRINITY_DN242337_c0_g1	.	.	.	.
+TRINITY_DN242337_c0_g1	.	.	.	.
+TRINITY_DN242383_c3_g1	LUPS_BETPL	Lupeol synthase	 Viridiplantae; Betulaceae	KEGG:ag:BAB83087
+TRINITY_DN242383_c3_g1	LUPS_BETPL	Lupeol synthase	 Viridiplantae; Betulaceae	KEGG:ag:BAB83087
+TRINITY_DN243037_c0_g1	BCH2_CAPAN	Beta-carotene hydroxylase 2, chloroplastic {ECO:0000305}	 Viridiplantae; Solanaceae; Capsiceae	KEGG:ag:CAA70888
+TRINITY_DN243659_c0_g1	.	.	.	.
+TRINITY_DN243659_c0_g1	.	.	.	.
+TRINITY_DN244056_c1_g1	.	.	.	.
+TRINITY_DN244339_c0_g1	SNAK2_SOLTU	Snakin-2	 Viridiplantae; Solanaceae; Solaneae	KEGG:sot:102582131
+TRINITY_DN244339_c0_g1	SNAK2_SOLTU	Snakin-2	 Viridiplantae; Solanaceae; Solaneae	KEGG:sot:102582131
+TRINITY_DN244339_c0_g1	SNAK2_SOLTU	Snakin-2	 Viridiplantae; Solanaceae; Solaneae	KEGG:sot:102582131
+TRINITY_DN244574_c0_g1	.	.	.	.
+TRINITY_DN244973_c0_g1	TMA7_TETNG	Translation machinery-associated protein 7	 Metazoa; Tetradontoidea; Tetraodon	KEGG:tng:GSTEN00012505G001
+TRINITY_DN244973_c0_g1	TMA7_TETNG	Translation machinery-associated protein 7	 Metazoa; Tetradontoidea; Tetraodon	KEGG:tng:GSTEN00012505G001
+TRINITY_DN245006_c2_g1	.	.	.	.
+TRINITY_DN245006_c2_g3	.	.	.	.
+TRINITY_DN245280_c1_g1	CAX3_ARATH	Vacuolar cation/proton exchanger 3	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G51860
+TRINITY_DN245280_c1_g1	CAX3_ARATH	Vacuolar cation/proton exchanger 3	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G51860
+TRINITY_DN245280_c1_g1	CAX3_ARATH	Vacuolar cation/proton exchanger 3	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G51860
+TRINITY_DN245607_c1_g1	HMDH_NICSY	3-hydroxy-3-methylglutaryl-coenzyme A reductase	 Viridiplantae; Solanaceae; Nicotianeae	.
+TRINITY_DN245607_c1_g1	HMDH_NICSY	3-hydroxy-3-methylglutaryl-coenzyme A reductase	 Viridiplantae; Solanaceae; Nicotianeae	.
+TRINITY_DN245607_c1_g1	HMDH_NICSY	3-hydroxy-3-methylglutaryl-coenzyme A reductase	 Viridiplantae; Solanaceae; Nicotianeae	.
+TRINITY_DN245678_c1_g4	.	.	.	.
+TRINITY_DN245917_c0_g1	.	.	.	.
+TRINITY_DN245917_c0_g1	.	.	.	.
+TRINITY_DN246728_c0_g1	MIF2_ARATH	Mini zinc finger protein 2	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G28917
+TRINITY_DN246728_c0_g1	MIF2_ARATH	Mini zinc finger protein 2	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G28917
+TRINITY_DN246729_c0_g1	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN246729_c0_g1	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN246779_c0_g1	.	.	.	.
+TRINITY_DN246779_c0_g4	.	.	.	.
+TRINITY_DN246835_c0_g1	SWT16_ORYSJ	Bidirectional sugar transporter SWEET16	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4332795
+TRINITY_DN246835_c0_g1	SWT16_ORYSJ	Bidirectional sugar transporter SWEET16	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4332795
+TRINITY_DN246930_c3_g7	ZRK7_ARATH	Serine/threonine-protein kinase ZRK7 {ECO:0000303|PubMed:26355215}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G57770
+TRINITY_DN247348_c29_g1	BSMT3_PETHY	S-adenosyl-L-methionine:benzoic acid/salicylic acid carboxyl methyltransferase 3 {ECO:0000303|Ref.1}	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN247348_c29_g1	BSMT3_PETHY	S-adenosyl-L-methionine:benzoic acid/salicylic acid carboxyl methyltransferase 3 {ECO:0000303|Ref.1}	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN247712_c0_g1	CYP22_ARATH	Peptidyl-prolyl cis-trans isomerase CYP22	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38730
+TRINITY_DN247712_c0_g1	CYP22_ARATH	Peptidyl-prolyl cis-trans isomerase CYP22	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38730
+TRINITY_DN247911_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN247911_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN247911_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN247970_c1_g1	ISPF_CATRO	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase, chloroplastic {ECO:0000305}	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN247970_c1_g1	ISPF_CATRO	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase, chloroplastic {ECO:0000305}	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN247989_c0_g1	FER3_MAIZE	Ferredoxin-3, chloroplastic	 Viridiplantae; Andropogoneae; Zea	.
+TRINITY_DN248015_c0_g1	CYP1_SOYBN	Peptidyl-prolyl cis-trans isomerase 1 {ECO:0000250|UniProtKB:O49886}	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN248015_c0_g1	CYP1_SOYBN	Peptidyl-prolyl cis-trans isomerase 1 {ECO:0000250|UniProtKB:O49886}	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN248159_c1_g1	TRXH1_TOBAC	Thioredoxin H-type 1	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107762104
+TRINITY_DN248159_c1_g1	.	.	.	.
+TRINITY_DN248159_c1_g1	TRXH1_TOBAC	Thioredoxin H-type 1	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107762104
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	KEGG:nsy:3735048
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	KEGG:vvi:4025008
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	KEGG:vvi:4025141
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN248534_c28_g1	PSBE_AMBTC	Cytochrome b559 subunit alpha {ECO:0000255|HAMAP-Rule:MF_00642}	 Viridiplantae	KEGG:atr:2546573
+TRINITY_DN248534_c28_g3	RK20_PANGI	50S ribosomal protein L20, chloroplastic {ECO:0000255|HAMAP-Rule:MF_00382}	 Viridiplantae; Araliaceae	.
+TRINITY_DN248534_c28_g3	RK20_PANGI	50S ribosomal protein L20, chloroplastic {ECO:0000255|HAMAP-Rule:MF_00382}	 Viridiplantae; Araliaceae	.
+TRINITY_DN248560_c0_g1	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN248992_c0_g1	.	.	.	.
+TRINITY_DN248992_c0_g2	.	.	.	.
+TRINITY_DN249044_c0_g1	ELI_PEA	Early light-induced protein, chloroplastic	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN249044_c0_g1	ELI_PEA	Early light-induced protein, chloroplastic	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN249044_c0_g1	ELI_PEA	Early light-induced protein, chloroplastic	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN249044_c0_g1	ELI_PEA	Early light-induced protein, chloroplastic	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN249074_c22_g1	.	.	.	.
+TRINITY_DN249315_c1_g1	PSY_CAPAN	Bifunctional 15-cis-phytoene synthase, chromoplastic {ECO:0000303|PubMed:16578835}	 Viridiplantae; Solanaceae; Capsiceae	KEGG:cann:107868281
+TRINITY_DN249315_c1_g2	.	.	.	.
+TRINITY_DN249374_c0_g1	VCL21_ARATH	Vicilin-like seed storage protein At2g18540	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G18540
+TRINITY_DN249412_c2_g7	.	.	.	.
+TRINITY_DN249571_c0_g1	P2B15_ARATH	F-box protein PP2-B15	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G09155
+TRINITY_DN249571_c0_g1	P2B15_ARATH	F-box protein PP2-B15	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G09155
+TRINITY_DN249594_c0_g1	ZAT5_ARATH	Zinc finger protein ZAT5	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G28200
+TRINITY_DN249594_c0_g1	ZAT5_ARATH	Zinc finger protein ZAT5	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G28200
+TRINITY_DN249770_c1_g1	NBS_NARPS	Norbelladine synthase {ECO:0000303|PubMed:30526483}	 Viridiplantae	.
+TRINITY_DN249770_c1_g1	NBS_NARPS	Norbelladine synthase {ECO:0000303|PubMed:30526483}	 Viridiplantae	.
+TRINITY_DN249801_c0_g2	TIP11_ORYSJ	Probable aquaporin TIP1-1	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4331608
+TRINITY_DN249801_c0_g2	TIP11_ARATH	Aquaporin TIP1-1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G36830
+TRINITY_DN249801_c0_g2	TIP11_ARATH	Aquaporin TIP1-1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G36830
+TRINITY_DN250166_c0_g3	SUI11_ARATH	Protein translation factor SUI1 homolog 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G27130
+TRINITY_DN250166_c0_g3	SUI11_ARATH	Protein translation factor SUI1 homolog 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G27130
+TRINITY_DN250167_c1_g1	GGPPS_CATRO	Geranylgeranyl pyrophosphate synthase, chloroplastic	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN250167_c1_g1	GGPPS_CATRO	Geranylgeranyl pyrophosphate synthase, chloroplastic	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN250273_c1_g6	UBC10_ARATH	Ubiquitin-conjugating enzyme E2 10 {ECO:0000303|PubMed:16339806, ECO:0000303|PubMed:8220461}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G53300
+TRINITY_DN250273_c1_g6	UBC9_ARATH	SUMO-conjugating enzyme UBC9	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G27960
+TRINITY_DN250273_c1_g6	UBC9_ARATH	SUMO-conjugating enzyme UBC9	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G27960
+TRINITY_DN250273_c1_g6	UBC10_ARATH	Ubiquitin-conjugating enzyme E2 10 {ECO:0000303|PubMed:16339806, ECO:0000303|PubMed:8220461}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G53300
+TRINITY_DN250273_c1_g6	UBC10_ARATH	Ubiquitin-conjugating enzyme E2 10 {ECO:0000303|PubMed:16339806, ECO:0000303|PubMed:8220461}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G53300
+TRINITY_DN250273_c1_g6	UBC4_SOLLC	Ubiquitin-conjugating enzyme E2-17 kDa	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100301932`KEGG:sly:101249087
+TRINITY_DN250273_c1_g6	UBC28_ARATH	Ubiquitin-conjugating enzyme E2 28	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G64230
+TRINITY_DN250440_c1_g1	SWT17_ARATH	Bidirectional sugar transporter SWEET17 {ECO:0000303|PubMed:21107422}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G15920
+TRINITY_DN250440_c1_g1	SWT17_ARATH	Bidirectional sugar transporter SWEET17 {ECO:0000303|PubMed:21107422}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G15920
+TRINITY_DN250440_c1_g1	SWT17_ARATH	Bidirectional sugar transporter SWEET17 {ECO:0000303|PubMed:21107422}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G15920
+TRINITY_DN250440_c1_g1	SWT17_ARATH	Bidirectional sugar transporter SWEET17 {ECO:0000303|PubMed:21107422}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G15920
+TRINITY_DN250440_c1_g1	SWT17_ARATH	Bidirectional sugar transporter SWEET17 {ECO:0000303|PubMed:21107422}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G15920
+TRINITY_DN250440_c1_g2	.	.	.	.
+TRINITY_DN250553_c5_g15	.	.	.	.
+TRINITY_DN250553_c5_g15	.	.	.	.
+TRINITY_DN250553_c5_g15	.	.	.	.
+TRINITY_DN250676_c0_g1	DEFA_ANTMA	Floral homeotic protein DEFICIENS	 Viridiplantae; Plantaginaceae; Antirrhinum	.
+TRINITY_DN250676_c0_g1	DEFA_ANTMA	Floral homeotic protein DEFICIENS	 Viridiplantae; Plantaginaceae; Antirrhinum	.
+TRINITY_DN250676_c0_g1	DEFA_ANTMA	Floral homeotic protein DEFICIENS	 Viridiplantae; Plantaginaceae; Antirrhinum	.
+TRINITY_DN250808_c1_g1	RR16_ATRBE	30S ribosomal protein S16, chloroplastic {ECO:0000255|HAMAP-Rule:MF_00385}	 Viridiplantae; Solanaceae; Hyoscyameae	.
+TRINITY_DN250822_c0_g1	NES1_FRAVE	(3S,6E)-nerolidol synthase 1, chloroplastic	 Viridiplantae; Rosaceae; Potentilleae	.
+TRINITY_DN250872_c0_g2	ADF2_PETHY	Actin-depolymerizing factor 2	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN250872_c0_g2	ADF1_ARATH	Actin-depolymerizing factor 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G46010
+TRINITY_DN250892_c1_g2	MAOC_FLAPR	NADP-dependent malic enzyme, chloroplastic	 Viridiplantae; Asteraceae; Heliantheae alliance	.
+TRINITY_DN250892_c1_g2	MAOC_FLAPR	NADP-dependent malic enzyme, chloroplastic	 Viridiplantae; Asteraceae; Heliantheae alliance	.
+TRINITY_DN250892_c1_g2	MAOX_VITVI	NADP-dependent malic enzyme	 Viridiplantae; Viteae	KEGG:vvi:100233140
+TRINITY_DN250892_c1_g2	MAOC_FLAPR	NADP-dependent malic enzyme, chloroplastic	 Viridiplantae; Asteraceae; Heliantheae alliance	.
+TRINITY_DN250892_c1_g2	MAOC_FLAPR	NADP-dependent malic enzyme, chloroplastic	 Viridiplantae; Asteraceae; Heliantheae alliance	.
+TRINITY_DN250905_c0_g2	TF2B_SOYBN	Transcription initiation factor IIB	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:gmx:548070
+TRINITY_DN250905_c0_g2	TF2B2_ARATH	Transcription initiation factor IIB-2	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G10330
+TRINITY_DN250905_c0_g2	TF2B2_ARATH	Transcription initiation factor IIB-2	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G10330
+TRINITY_DN251086_c1_g1	AOX4_ARATH	Ubiquinol oxidase 4, chloroplastic/chromoplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G22260
+TRINITY_DN251086_c1_g1	AOX4_ARATH	Ubiquinol oxidase 4, chloroplastic/chromoplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G22260
+TRINITY_DN251127_c0_g1	ATB20_ARATH	Homeobox-leucine zipper protein ATHB-20	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G01220
+TRINITY_DN251127_c0_g1	ATB20_ARATH	Homeobox-leucine zipper protein ATHB-20	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G01220
+TRINITY_DN251379_c0_g1	METK2_VITVI	S-adenosylmethionine synthase 2	 Viridiplantae; Viteae	KEGG:vvi:100244176
+TRINITY_DN251379_c0_g1	METK2_VITVI	S-adenosylmethionine synthase 2	 Viridiplantae; Viteae	KEGG:vvi:100244176
+TRINITY_DN251379_c0_g1	METK1_POPTR	S-adenosylmethionine synthase 1	 Viridiplantae; Salicaceae; Populus	KEGG:pop:7495188
+TRINITY_DN251379_c0_g1	METK1_POPTR	S-adenosylmethionine synthase 1	 Viridiplantae; Salicaceae; Populus	KEGG:pop:7495188
+TRINITY_DN251379_c0_g1	METK1_POPTR	S-adenosylmethionine synthase 1	 Viridiplantae; Salicaceae; Populus	KEGG:pop:7495188
+TRINITY_DN251384_c0_g1	ORANG_ARATH	Protein ORANGE, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G61670
+TRINITY_DN251384_c0_g1	ORANG_ARATH	Protein ORANGE, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G61670
+TRINITY_DN251384_c0_g1	ORANG_ARATH	Protein ORANGE, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G61670
+TRINITY_DN251384_c0_g1	ORANG_ARATH	Protein ORANGE, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G61670
+TRINITY_DN251384_c0_g1	ORANG_ARATH	Protein ORANGE, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G61670
+TRINITY_DN251384_c0_g1	ORANG_ARATH	Protein ORANGE, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G61670
+TRINITY_DN251435_c1_g1	C71BV_ARATH	Cytochrome P450 71B34	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G26300
+TRINITY_DN251435_c1_g1	C71BV_ARATH	Cytochrome P450 71B34	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G26300
+TRINITY_DN251802_c1_g1	CAD2_MEDTR	Cinnamoyl-CoA reductase CAD2 {ECO:0000305|PubMed:25217505}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:mtr:11427940
+TRINITY_DN251802_c1_g1	CAD2_MEDTR	Cinnamoyl-CoA reductase CAD2 {ECO:0000305|PubMed:25217505}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:mtr:11427940
+TRINITY_DN251802_c1_g1	.	.	.	.
+TRINITY_DN251802_c1_g1	.	.	.	.
+TRINITY_DN251802_c1_g1	.	.	.	.
+TRINITY_DN251802_c1_g1	CAD2_MEDTR	Cinnamoyl-CoA reductase CAD2 {ECO:0000305|PubMed:25217505}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:mtr:11427940
+TRINITY_DN251802_c1_g1	CAD2_MEDTR	Cinnamoyl-CoA reductase CAD2 {ECO:0000305|PubMed:25217505}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:mtr:11427940
+TRINITY_DN251802_c1_g1	CAD2_MEDTR	Cinnamoyl-CoA reductase CAD2 {ECO:0000305|PubMed:25217505}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:mtr:11427940
+TRINITY_DN251802_c1_g1	CAD2_MEDTR	Cinnamoyl-CoA reductase CAD2 {ECO:0000305|PubMed:25217505}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:mtr:11427940
+TRINITY_DN251802_c1_g1	CAD2_MEDTR	Cinnamoyl-CoA reductase CAD2 {ECO:0000305|PubMed:25217505}	 Viridiplantae; Fabaceae; 50 kb inversion clade	KEGG:mtr:11427940
+TRINITY_DN251901_c0_g1	IDI2_CAMAC	Isopentenyl-diphosphate Delta-isomerase II	 Viridiplantae; Camptotheca	.
+TRINITY_DN251901_c0_g1	IDI2_CAMAC	Isopentenyl-diphosphate Delta-isomerase II	 Viridiplantae; Camptotheca	.
+TRINITY_DN252024_c0_g1	LIPC_SOLTU	Light-induced protein, chloroplastic	 Viridiplantae; Solanaceae; Solaneae	KEGG:sot:102584168
+TRINITY_DN252024_c0_g1	LIPC_SOLTU	Light-induced protein, chloroplastic	 Viridiplantae; Solanaceae; Solaneae	KEGG:sot:102584168
+TRINITY_DN252036_c1_g1	CGS1_ARATH	Cystathionine gamma-synthase 1, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G01120
+TRINITY_DN252066_c0_g4	.	.	.	.
+TRINITY_DN252066_c0_g4	.	.	.	.
+TRINITY_DN252066_c0_g4	.	.	.	.
+TRINITY_DN252066_c0_g4	.	.	.	.
+TRINITY_DN252067_c1_g1	NU6M_ARATH	NADH-ubiquinone oxidoreductase chain 6	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN252067_c1_g1	NU6M_ARATH	NADH-ubiquinone oxidoreductase chain 6	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G07734
+TRINITY_DN252067_c1_g1	NU6M_ARATH	NADH-ubiquinone oxidoreductase chain 6	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN252104_c2_g1	UBQ11_ARATH	Polyubiquitin 11	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G05050
+TRINITY_DN252104_c3_g1	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g10	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g11	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g12	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g13	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g14	UBIQ_AVESA	Ubiquitin	 Viridiplantae; Poeae; Aveninae	.
+TRINITY_DN252104_c3_g15	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g16	UBQ11_ARATH	Polyubiquitin 11	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G05050
+TRINITY_DN252104_c3_g16	UBQ11_ARATH	Polyubiquitin 11	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G05050
+TRINITY_DN252104_c3_g17	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g18	UBIQ_AVESA	Ubiquitin	 Viridiplantae; Poeae; Aveninae	.
+TRINITY_DN252104_c3_g19	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g14	UBIQ_AVESA	Ubiquitin	 Viridiplantae; Poeae; Aveninae	.
+TRINITY_DN252104_c3_g15	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g17	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g21	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g3	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252104_c3_g7	UBIQP_HORVU	Polyubiquitin	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN252116_c0_g4	.	.	.	.
+TRINITY_DN252116_c0_g6	.	.	.	.
+TRINITY_DN252146_c0_g1	.	.	.	.
+TRINITY_DN252146_c0_g1	.	.	.	.
+TRINITY_DN252227_c0_g10	NLTP2_PRUAR	Non-specific lipid-transfer protein 2	 Viridiplantae; Rosaceae; Amygdaleae	.
+TRINITY_DN252227_c0_g10	NLTP2_PRUAR	Non-specific lipid-transfer protein 2	 Viridiplantae; Rosaceae; Amygdaleae	.
+TRINITY_DN252227_c0_g3	NLTP2_PRUAR	Non-specific lipid-transfer protein 2	 Viridiplantae; Rosaceae; Amygdaleae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV1_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 1	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252242_c0_g1	INV2_DAUCA	Beta-fructofuranosidase, insoluble isoenzyme 2	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252368_c0_g1	PME_PRUPE	Pectinesterase/pectinesterase inhibitor PPE8B	 Viridiplantae; Rosaceae; Amygdaleae	.
+TRINITY_DN252368_c0_g1	PME_PRUPE	Pectinesterase/pectinesterase inhibitor PPE8B	 Viridiplantae; Rosaceae; Amygdaleae	.
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nsy:3735090
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nsy:3735092
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:800516
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nsy:3735090
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nsy:3735090
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:pop:4929644
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nsy:3735090
+TRINITY_DN252430_c27_g1	PSAB_JASNU	Photosystem I P700 chlorophyll a apoprotein A2 {ECO:0000255|HAMAP-Rule:MF_00482}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN252430_c27_g1	PSAB_JASNU	Photosystem I P700 chlorophyll a apoprotein A2 {ECO:0000255|HAMAP-Rule:MF_00482}	 Viridiplantae; Oleaceae; Jasminum	.
+TRINITY_DN252430_c27_g2	PSAA_SOLBU	Photosystem I P700 chlorophyll a apoprotein A1 {ECO:0000255|HAMAP-Rule:MF_00458}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN252430_c27_g2	PSAA_SOLBU	Photosystem I P700 chlorophyll a apoprotein A1 {ECO:0000255|HAMAP-Rule:MF_00458}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN252430_c39_g3	NU1M_ARATH	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN252430_c39_g3	NU1M_ARATH	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN252430_c39_g3	NU1M_ARATH	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN252430_c39_g3	NU1M_ARATH	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN252430_c39_g3	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN252430_c39_g3	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN252430_c39_g3	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN252430_c39_g3	RT07_ARATH	Ribosomal protein S7, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G07696
+TRINITY_DN252430_c39_g3	RT13_DAUCA	Ribosomal protein S13, mitochondrial	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252430_c39_g3	RT13_DAUCA	Ribosomal protein S13, mitochondrial	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252430_c39_g3	RT13_DAUCA	Ribosomal protein S13, mitochondrial	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252430_c39_g3	RT13_DAUCA	Ribosomal protein S13, mitochondrial	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252430_c39_g3	RT13_DAUCA	Ribosomal protein S13, mitochondrial	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252430_c39_g3	RT13_DAUCA	Ribosomal protein S13, mitochondrial	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN252430_c39_g3	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN252430_c39_g3	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN252430_c39_g3	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN252430_c39_g3	NU1M_OENBE	NADH-ubiquinone oxidoreductase chain 1	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN252430_c39_g3	RT07_ARATH	Ribosomal protein S7, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G07696
+TRINITY_DN252430_c39_g3	RT07_ARATH	Ribosomal protein S7, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G07696
+TRINITY_DN252628_c0_g1	ISPH_ARATH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G34350
+TRINITY_DN252628_c0_g1	ISPH_ARATH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G34350
+TRINITY_DN252628_c0_g1	ISPH_ARATH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G34350
+TRINITY_DN252628_c0_g1	ISPH_ARATH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G34350
+TRINITY_DN252628_c0_g1	ISPH_ARATH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G34350
+TRINITY_DN252628_c0_g1	ISPH_ARATH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G34350
+TRINITY_DN252637_c0_g1	UGT9_GARJA	Beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	 Viridiplantae; Rubiaceae; Gardenieae complex	KEGG:ag:BAK55744
+TRINITY_DN252637_c0_g1	UGT9_GARJA	Beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	 Viridiplantae; Rubiaceae; Gardenieae complex	KEGG:ag:BAK55744
+TRINITY_DN252657_c0_g1	TI10A_ARATH	Protein TIFY 10A {ECO:0000303|PubMed:17499004}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G19180
+TRINITY_DN252657_c0_g1	TI10A_ARATH	Protein TIFY 10A {ECO:0000303|PubMed:17499004}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G19180
+TRINITY_DN252657_c0_g1	TI10A_ARATH	Protein TIFY 10A {ECO:0000303|PubMed:17499004}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G19180
+TRINITY_DN252657_c0_g1	TI10A_ARATH	Protein TIFY 10A {ECO:0000303|PubMed:17499004}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G19180
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	.	.	.	.
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252695_c0_g3	BBX19_ARATH	B-box zinc finger protein 19 {ECO:0000303|PubMed:19920209}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38960
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252751_c0_g1	10HGO_CATRO	8-hydroxygeraniol dehydrogenase	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN252885_c1_g2	MYB08_ANTMA	Myb-related protein 308	 Viridiplantae; Plantaginaceae; Antirrhinum	.
+TRINITY_DN252885_c1_g3	MYB08_ANTMA	Myb-related protein 308	 Viridiplantae; Plantaginaceae; Antirrhinum	.
+TRINITY_DN252921_c0_g1	SUT31_ARATH	Sulfate transporter 3.1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G51895
+TRINITY_DN252921_c0_g1	SUT31_ARATH	Sulfate transporter 3.1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G51895
+TRINITY_DN252921_c0_g1	.	.	.	.
+TRINITY_DN253011_c1_g1	FENR2_PEA	Ferredoxin--NADP reductase, root isozyme, chloroplastic	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN253027_c0_g2	S401_ARATH	Protein S40-1 {ECO:0000303|PubMed:20238146}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G29640
+TRINITY_DN253027_c0_g2	S401_ARATH	Protein S40-1 {ECO:0000303|PubMed:20238146}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G15040
+TRINITY_DN253027_c0_g2	S401_ARATH	Protein S40-1 {ECO:0000303|PubMed:20238146}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G29640
+TRINITY_DN253027_c0_g2	.	.	.	.
+TRINITY_DN253027_c0_g2	.	.	.	.
+TRINITY_DN253027_c0_g2	S407_ARATH	Protein S40-7 {ECO:0000303|PubMed:20238146}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G15040
+TRINITY_DN253027_c0_g2	S401_ARATH	Protein S40-1 {ECO:0000303|PubMed:20238146}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G15040
+TRINITY_DN253027_c0_g2	S401_ARATH	Protein S40-1 {ECO:0000303|PubMed:20238146}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G15040
+TRINITY_DN253027_c0_g2	S401_ARATH	Protein S40-1 {ECO:0000303|PubMed:20238146}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G15040
+TRINITY_DN253027_c0_g2	.	.	.	.
+TRINITY_DN253027_c0_g2	.	.	.	.
+TRINITY_DN253145_c0_g1	CCS_CITSI	Capsanthin/capsorubin synthase, chromoplastic	 Viridiplantae; Rutaceae; Citrus	.
+TRINITY_DN253145_c0_g1	CCS_CITSI	Capsanthin/capsorubin synthase, chromoplastic	 Viridiplantae; Rutaceae; Citrus	.
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253180_c2_g1	ASOL_TOBAC	L-ascorbate oxidase homolog	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107766889
+TRINITY_DN253228_c0_g1	BAM1_ARATH	Beta-amylase 1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G23920
+TRINITY_DN253228_c0_g1	BAM1_ARATH	Beta-amylase 1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G23920
+TRINITY_DN253228_c0_g1	BAM1_ARATH	Beta-amylase 1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G23920
+TRINITY_DN253228_c0_g1	BAM1_ARATH	Beta-amylase 1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G23920
+TRINITY_DN253228_c0_g1	BAM1_ARATH	Beta-amylase 1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G23920
+TRINITY_DN253281_c0_g1	CTL1_ARATH	Chitinase-like protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G05850
+TRINITY_DN253281_c0_g1	CTL1_ARATH	Chitinase-like protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G05850
+TRINITY_DN253281_c0_g1	CTL1_ARATH	Chitinase-like protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G05850
+TRINITY_DN253281_c0_g1	CTL1_ARATH	Chitinase-like protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G05850
+TRINITY_DN253285_c0_g1	COL5_ARATH	Zinc finger protein CONSTANS-LIKE 5	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G57660
+TRINITY_DN253285_c0_g1	COL5_ARATH	Zinc finger protein CONSTANS-LIKE 5	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G57660
+TRINITY_DN253391_c0_g1	GGPPS_CATRO	Geranylgeranyl pyrophosphate synthase, chloroplastic	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN253391_c0_g1	GGPPS_CATRO	Geranylgeranyl pyrophosphate synthase, chloroplastic	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN253391_c0_g1	GGPPS_CATRO	Geranylgeranyl pyrophosphate synthase, chloroplastic	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN253391_c0_g1	GGPPS_CATRO	Geranylgeranyl pyrophosphate synthase, chloroplastic	 Viridiplantae; Apocynaceae; Vinceae	.
+TRINITY_DN253441_c15_g10	COX2_ARATH	Cytochrome c oxidase subunit 2	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN253441_c15_g4	COX2_ARATH	Cytochrome c oxidase subunit 2	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN253441_c15_g4	COX2_ARATH	Cytochrome c oxidase subunit 2	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN253441_c15_g8	COX2_ARATH	Cytochrome c oxidase subunit 2	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN253460_c0_g1	PME21_ARATH	Probable pectinesterase/pectinesterase inhibitor 21	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G05610
+TRINITY_DN253460_c0_g1	PME58_ARATH	Probable pectinesterase/pectinesterase inhibitor 58	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G49180
+TRINITY_DN253482_c5_g1	ISPG_ARATH	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin), chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G60600
+TRINITY_DN253482_c5_g1	ISPG_ARATH	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin), chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G60600
+TRINITY_DN253570_c0_g1	AO2A_TOBAC	L-aspartate oxidase 2-a, chloroplastic {ECO:0000303|PubMed:32242247}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107775324
+TRINITY_DN253570_c0_g1	AO2A_TOBAC	L-aspartate oxidase 2-a, chloroplastic {ECO:0000303|PubMed:32242247}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107775324
+TRINITY_DN253570_c0_g1	AO2A_TOBAC	L-aspartate oxidase 2-a, chloroplastic {ECO:0000303|PubMed:32242247}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107775324
+TRINITY_DN253570_c0_g1	.	.	.	.
+TRINITY_DN253570_c0_g1	AO2A_TOBAC	L-aspartate oxidase 2-a, chloroplastic {ECO:0000303|PubMed:32242247}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107775324
+TRINITY_DN253570_c0_g1	AO2A_TOBAC	L-aspartate oxidase 2-a, chloroplastic {ECO:0000303|PubMed:32242247}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107775324
+TRINITY_DN253570_c0_g1	AO2A_TOBAC	L-aspartate oxidase 2-a, chloroplastic {ECO:0000303|PubMed:32242247}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107775324
+TRINITY_DN253570_c0_g1	AO2A_TOBAC	L-aspartate oxidase 2-a, chloroplastic {ECO:0000303|PubMed:32242247}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:107775324
+TRINITY_DN253774_c0_g1	PDS_CAPAN	15-cis-phytoene desaturase, chloroplastic/chromoplastic {ECO:0000305}	 Viridiplantae; Solanaceae; Capsiceae	KEGG:cann:107861625
+TRINITY_DN253774_c0_g1	PDS_SOLLC	15-cis-phytoene desaturase, chloroplastic/chromoplastic {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:544073
+TRINITY_DN253807_c8_g1	DXS2_ORYSJ	Probable 1-deoxy-D-xylulose-5-phosphate synthase 2, chloroplastic	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4342614
+TRINITY_DN253807_c8_g1	DXS2_ORYSJ	Probable 1-deoxy-D-xylulose-5-phosphate synthase 2, chloroplastic	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4342614
+TRINITY_DN253807_c8_g1	DXS2_ORYSJ	Probable 1-deoxy-D-xylulose-5-phosphate synthase 2, chloroplastic	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4342614
+TRINITY_DN253807_c8_g1	DXS2_ORYSJ	Probable 1-deoxy-D-xylulose-5-phosphate synthase 2, chloroplastic	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4342614
+TRINITY_DN253807_c8_g1	DXS2_ORYSJ	Probable 1-deoxy-D-xylulose-5-phosphate synthase 2, chloroplastic	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4342614
+TRINITY_DN253807_c8_g1	DXS2_ORYSJ	Probable 1-deoxy-D-xylulose-5-phosphate synthase 2, chloroplastic	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4342614
+TRINITY_DN253847_c0_g1	DXR_MENPI	1-deoxy-D-xylulose 5-phosphate reductoisomerase, chloroplastic	 Viridiplantae; Lamiaceae; Mentheae	.
+TRINITY_DN253852_c6_g13	CCD4_ARATH	Probable carotenoid cleavage dioxygenase 4, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G19170
+TRINITY_DN253968_c0_g1	ELF3_ARATH	Protein EARLY FLOWERING 3	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G25930
+TRINITY_DN253968_c0_g1	HD3B_ORYSJ	Protein HEADING DATE 3B	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4340087
+TRINITY_DN253968_c0_g1	ELF3_ARATH	Protein EARLY FLOWERING 3	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G25930
+TRINITY_DN253968_c0_g1	HD3B_ORYSJ	Protein HEADING DATE 3B	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4340087
+TRINITY_DN253968_c0_g1	HD3B_ORYSJ	Protein HEADING DATE 3B	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4340087
+TRINITY_DN254007_c34_g2	NU5M_OENBE	NADH-ubiquinone oxidoreductase chain 5	 Viridiplantae; Onagraceae; Onagreae	KEGG:ath:AT5G58220
+TRINITY_DN254007_c34_g2	NU5M_OENBE	NADH-ubiquinone oxidoreductase chain 5	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN254007_c34_g2	NU5M_OENBE	NADH-ubiquinone oxidoreductase chain 5	 Viridiplantae; Onagraceae; Onagreae	KEGG:ath:AT5G58220
+TRINITY_DN254007_c34_g2	NU5M_OENBE	NADH-ubiquinone oxidoreductase chain 5	 Viridiplantae; Onagraceae; Onagreae	.
+TRINITY_DN254007_c34_g2	NU5M_OENBE	NADH-ubiquinone oxidoreductase chain 5	 Viridiplantae; Onagraceae; Onagreae	KEGG:ath:AT5G58220
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254041_c0_g2	EIN3_ARATH	Protein ETHYLENE INSENSITIVE 3 {ECO:0000303|PubMed:9215635}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G20770
+TRINITY_DN254085_c0_g1	GGT24_PUNGR	Gallate 1-beta-glucosyltransferase 84A24 {ECO:0000305}	 Viridiplantae; Lythraceae	.
+TRINITY_DN254085_c0_g1	GGT24_PUNGR	Gallate 1-beta-glucosyltransferase 84A24 {ECO:0000305}	 Viridiplantae; Lythraceae	.
+TRINITY_DN254085_c0_g1	GGT24_PUNGR	Gallate 1-beta-glucosyltransferase 84A24 {ECO:0000305}	 Viridiplantae; Lythraceae	.
+TRINITY_DN254085_c0_g1	GGT24_PUNGR	Gallate 1-beta-glucosyltransferase 84A24 {ECO:0000305}	 Viridiplantae; Lythraceae	.
+TRINITY_DN254093_c2_g1	LUT5_ARATH	Protein LUTEIN DEFICIENT 5, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G31800
+TRINITY_DN254093_c2_g1	LUT5_ARATH	Protein LUTEIN DEFICIENT 5, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G31800
+TRINITY_DN254093_c2_g1	.	.	.	.
+TRINITY_DN254093_c2_g1	LUT5_ARATH	Protein LUTEIN DEFICIENT 5, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G31800
+TRINITY_DN254093_c2_g1	LUT5_ARATH	Protein LUTEIN DEFICIENT 5, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G31800
+TRINITY_DN254093_c2_g1	LUT5_ARATH	Protein LUTEIN DEFICIENT 5, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G31800
+TRINITY_DN254093_c2_g1	LUT5_ARATH	Protein LUTEIN DEFICIENT 5, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G31800
+TRINITY_DN254162_c0_g1	INVB_DAUCA	Beta-fructofuranosidase, soluble isoenzyme I	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN254162_c0_g1	INVB_DAUCA	Beta-fructofuranosidase, soluble isoenzyme I	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN254162_c0_g1	INVB_DAUCA	Beta-fructofuranosidase, soluble isoenzyme I	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN254162_c0_g1	INVB_DAUCA	Beta-fructofuranosidase, soluble isoenzyme I	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN254162_c0_g1	INVB_DAUCA	Beta-fructofuranosidase, soluble isoenzyme I	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN254162_c0_g1	INVB_DAUCA	Beta-fructofuranosidase, soluble isoenzyme I	 Viridiplantae; Apiaceae; Scandiceae	.
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH2_SOLLC	Abscisic acid 8'-hydroxylase CYP707A2 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101249565
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH2_SOLLC	Abscisic acid 8'-hydroxylase CYP707A2 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101249565
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH2_SOLLC	Abscisic acid 8'-hydroxylase CYP707A2 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101249565
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH2_SOLLC	Abscisic acid 8'-hydroxylase CYP707A2 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101249565
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254201_c1_g1	ABAH1_SOLLC	Abscisic acid 8'-hydroxylase CYP707A1 {ECO:0000305}	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:100136887
+TRINITY_DN254273_c1_g1	RFS6_ARATH	Probable galactinol--sucrose galactosyltransferase 6	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G20250
+TRINITY_DN254273_c1_g1	RFS6_ARATH	Probable galactinol--sucrose galactosyltransferase 6	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G20250
+TRINITY_DN254273_c1_g1	RFS6_ARATH	Probable galactinol--sucrose galactosyltransferase 6	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G20250
+TRINITY_DN254273_c1_g1	RFS6_ARATH	Probable galactinol--sucrose galactosyltransferase 6	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G20250
+TRINITY_DN254273_c1_g1	RFS6_ARATH	Probable galactinol--sucrose galactosyltransferase 6	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G20250
+TRINITY_DN254305_c0_g1	CRTSO_SOLLC	Prolycopene isomerase, chloroplastic	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101267857
+TRINITY_DN254305_c0_g1	CRTSO_SOLLC	Prolycopene isomerase, chloroplastic	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101267857
+TRINITY_DN254305_c0_g1	CRTSO_SOLLC	Prolycopene isomerase, chloroplastic	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101267857
+TRINITY_DN254305_c0_g1	CRTSO_SOLLC	Prolycopene isomerase, chloroplastic	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:101267857
+TRINITY_DN254370_c0_g1	LHY_PETHY	Protein LATE ELONGATED HYPOCOTYL {ECO:0000303|PubMed:26124104}	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN254370_c0_g1	LHY_PETHY	Protein LATE ELONGATED HYPOCOTYL {ECO:0000303|PubMed:26124104}	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN254370_c0_g1	LHY_PETHY	Protein LATE ELONGATED HYPOCOTYL {ECO:0000303|PubMed:26124104}	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN254370_c0_g1	LHY_PETHY	Protein LATE ELONGATED HYPOCOTYL {ECO:0000303|PubMed:26124104}	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN254370_c0_g1	LHY_PETHY	Protein LATE ELONGATED HYPOCOTYL {ECO:0000303|PubMed:26124104}	 Viridiplantae; Solanaceae; Petunia	.
+TRINITY_DN254378_c0_g1	GLR32_ARATH	Glutamate receptor 3.2 {ECO:0000303|PubMed:11379626}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G35290
+TRINITY_DN254378_c0_g1	GLR33_ARATH	Glutamate receptor 3.3 {ECO:0000303|PubMed:11379626}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G42540
+TRINITY_DN254378_c0_g1	GLR32_ARATH	Glutamate receptor 3.2 {ECO:0000303|PubMed:11379626}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G35290
+TRINITY_DN254378_c0_g1	GLR32_ARATH	Glutamate receptor 3.2 {ECO:0000303|PubMed:11379626}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G35290
+TRINITY_DN254378_c0_g1	GLR32_ARATH	Glutamate receptor 3.2 {ECO:0000303|PubMed:11379626}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G35290
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254382_c0_g2	BLH1_ARATH	BEL1-like homeodomain protein 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G35940
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254403_c0_g1	CHUP1_ARATH	Protein CHUP1, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G25690
+TRINITY_DN254405_c139_g1	PSBA_AETCO	Photosystem II protein D1 {ECO:0000255|HAMAP-Rule:MF_01379}	 Viridiplantae; Brassicaceae; Aethionema	.
+TRINITY_DN254405_c202_g1	.	.	.	.
+TRINITY_DN254405_c202_g1	TAR1_KLULA	Protein TAR1	 Fungi	KEGG:kla:KLLA0_D17600g`KEGG:kla:KLLA0_D17732g`KEGG:kla:KLLA0_D17864g
+TRINITY_DN254405_c202_g1	TAR1_KLULA	Protein TAR1	 Fungi	KEGG:kla:KLLA0_D17600g`KEGG:kla:KLLA0_D17732g`KEGG:kla:KLLA0_D17864g
+TRINITY_DN254426_c2_g1	AB14C_ARATH	ABC transporter C family member 14	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G62700
+TRINITY_DN254426_c2_g1	AB14C_ARATH	ABC transporter C family member 14	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G62700
+TRINITY_DN254426_c2_g1	.	.	.	.
+TRINITY_DN254426_c2_g1	AB14C_ARATH	ABC transporter C family member 14	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G62700
+TRINITY_DN254426_c2_g1	.	.	.	.
+TRINITY_DN254492_c9_g7	.	.	.	.
+TRINITY_DN254492_c9_g7	.	.	.	.
+TRINITY_DN254634_c0_g1	.	.	.	.
+TRINITY_DN255660_c0_g1	NLTP3_PEA	Non-specific lipid-transfer protein 3 {ECO:0000303|PubMed:27137920}	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN256115_c0_g1	.	.	.	.
+TRINITY_DN259341_c0_g1	.	.	.	.
+TRINITY_DN299099_c0_g1	YCF15_MAIZE	Putative uncharacterized protein ycf15	 Viridiplantae; Andropogoneae; Zea	KEGG:zma:1466372`KEGG:zma:1466385
+TRINITY_DN337732_c0_g1	.	.	.	.
+TRINITY_DN338279_c0_g4	.	.	.	.
+TRINITY_DN34970_c0_g1	LKHA4_DICDI	Leucine aminopeptidase	 Amoebozoa	KEGG:ddi:DDB_G0269148
+TRINITY_DN363106_c0_g1	.	.	.	.
+TRINITY_DN363960_c1_g1	.	.	.	.
+TRINITY_DN363960_c1_g3	.	.	.	.
+TRINITY_DN54758_c0_g2	.	.	.	.
+TRINITY_DN54775_c0_g1	NRT21_ARATH	High-affinity nitrate transporter 2.1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G08090
+TRINITY_DN54775_c0_g1	NRT21_ARATH	High-affinity nitrate transporter 2.1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G08090
+TRINITY_DN69085_c0_g1	YCF2_PANGI	Protein Ycf2 {ECO:0000255|HAMAP-Rule:MF_01330}	 Viridiplantae; Araliaceae	.
+TRINITY_DN75318_c0_g1	.	.	.	.
+TRINITY_DN80199_c45_g1	MATK_OLEEU	Maturase K {ECO:0000255|HAMAP-Rule:MF_01390}	 Viridiplantae; Oleaceae; Olea	.
+TRINITY_DN80199_c45_g1	MATK_OLEEU	Maturase K {ECO:0000255|HAMAP-Rule:MF_01390}	 Viridiplantae; Oleaceae; Olea	.
+TRINITY_DN80389_c0_g1	ATPA_NICSY	ATP synthase subunit alpha, chloroplastic {ECO:0000255|HAMAP-Rule:MF_01346}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nsy:3735049

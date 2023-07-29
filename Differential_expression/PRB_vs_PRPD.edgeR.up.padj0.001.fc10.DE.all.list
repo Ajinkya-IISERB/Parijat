@@ -1,0 +1,75 @@
+TRINITY_DN109103_c0_g1	.	.	.
+TRINITY_DN145991_c0_g1	IP23_CAPAN^IP23_CAPAN^Q:246-94,H:1-51^54.9%ID^E:3.11e-16^RecName: Full=Proteinase inhibitor PSI-1.2;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Capsiceae; Capsicum	.	.
+TRINITY_DN164048_c0_g1	.	.	.
+TRINITY_DN188345_c0_g2	.	Plant_SRP^RF01855^55-303^-^169.6^4.9e-47	.
+TRINITY_DN189554_c0_g2	.	LSU_rRNA_bacteria^RF02541^2659-2871^+^196.9^8e-62	.
+TRINITY_DN189554_c0_g4	.	LSU_rRNA_bacteria^RF02541^2682-2925^+^227.4^4.8e-72	.
+TRINITY_DN224521_c0_g2	.	.	.
+TRINITY_DN225334_c0_g1	.	.	.
+TRINITY_DN229688_c9_g1	.	Plant_SRP^RF01855^1-305^-^227.4^1.7e-64	.
+TRINITY_DN230482_c0_g2	.	.	.
+TRINITY_DN230734_c3_g5	.	.	.
+TRINITY_DN230734_c3_g8	.	.	.
+TRINITY_DN231063_c1_g4	.	5_8S_rRNA^RF00002^1-154^+^147.5^4.5e-38`LSU_rRNA_eukarya^RF02543^1-149^+^131.5^8.9e-32	.
+TRINITY_DN234309_c0_g3	.	.	.
+TRINITY_DN235186_c0_g3	.	.	.
+TRINITY_DN240901_c0_g1	RG1_RAUSE^RG1_RAUSE^Q:141-1706,H:15-539^58.3%ID^E:1.3e-230^RecName: Full=Raucaffricine-O-beta-D-glucosidase {ECO:0000303|PubMed:10975500};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Gentianales; Apocynaceae; Rauvolfioideae; Vinceae; Rauvolfiinae; Rauvolfia	.	KEGG:ag:AAF03675
+TRINITY_DN240901_c0_g1	BGLC_OLEEU^BGLC_OLEEU^Q:23-193,H:471-527^64.9%ID^E:1.48e-19^RecName: Full=Oleuropein beta-glucosidase {ECO:0000305};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Lamiales; Oleaceae; Oleeae; Olea	.	KEGG:ag:AAL93619
+TRINITY_DN241165_c0_g1	.	U11^RF00548^10-137^+^44.7^4.4e-05	.
+TRINITY_DN242143_c0_g3	.	snoU19^RF01236^1-144^-^75.4^1.4e-10	.
+TRINITY_DN242143_c0_g3	.	snoU19^RF01236^1-144^-^75.4^1.4e-10	.
+TRINITY_DN242355_c0_g1	ZPR3_ARATH^ZPR3_ARATH^Q:523-389,H:1-45^86.7%ID^E:1.13e-15^RecName: Full=Protein LITTLE ZIPPER 3 {ECO:0000303|PubMed:18055602};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT3G52770
+TRINITY_DN242355_c0_g1	ZPR3_ARATH^ZPR3_ARATH^Q:523-389,H:1-45^86.7%ID^E:5.35e-16^RecName: Full=Protein LITTLE ZIPPER 3 {ECO:0000303|PubMed:18055602};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT3G52770
+TRINITY_DN245006_c2_g7	.	U5^RF00020^1-116^+^83.8^8.2e-13	.
+TRINITY_DN246940_c0_g3	.	.	.
+TRINITY_DN247366_c18_g11	.	U1^RF00003^1-166^+^154.2^4.7e-40	.
+TRINITY_DN247366_c18_g6	.	U1^RF00003^4-166^+^137.0^4.3e-35	.
+TRINITY_DN249074_c20_g3	.	LSU_rRNA_bacteria^RF02541^1-359^+^239.5^4.2e-76`tRNA^RF00005^1-71^+^65.7^9.2e-13`tRNA^RF00005^1-71^+^63.7^3.3e-12	.
+TRINITY_DN249086_c1_g1	MT21_BRAJU^MT21_BRAJU^Q:46-183,H:1-46^80.9%ID^E:6.73e-19^RecName: Full=Metallothionein-like protein type 2, MT2-4/MT2-25;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Brassiceae; Brassica	.	.
+TRINITY_DN249412_c2_g10	.	U4^RF00015^1-138^-^106.3^1.3e-23	.
+TRINITY_DN249412_c2_g14	.	U4^RF00015^1-138^-^99.2^1e-21	.
+TRINITY_DN249817_c0_g1	PSBQ_SPIOL^PSBQ_SPIOL^Q:989-690,H:1-100^69%ID^E:3.22e-32^RecName: Full=Oxygen-evolving enhancer protein 3, chloroplastic;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Chenopodioideae; Anserineae; Spinacia	.	.
+TRINITY_DN249817_c0_g1	PSBQ_SPIOL^PSBQ_SPIOL^Q:989-690,H:1-100^69%ID^E:3.22e-32^RecName: Full=Oxygen-evolving enhancer protein 3, chloroplastic;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Chenopodioideae; Anserineae; Spinacia	.	.
+TRINITY_DN249990_c0_g2	.	RNaseP_bact_a^RF00010^134-345^-^152.2^1e-46	.
+TRINITY_DN250081_c9_g26	.	LSU_rRNA_bacteria^RF02541^755-1092^+^295.8^5.8e-95	.
+TRINITY_DN252116_c0_g1	.	.	.
+TRINITY_DN252367_c0_g2	.	.	.
+TRINITY_DN252367_c0_g2	.	.	.
+TRINITY_DN252367_c0_g2	.	.	.
+TRINITY_DN252367_c0_g2	.	.	.
+TRINITY_DN252367_c0_g2	Y2416_ARATH^Y2416_ARATH^Q:742-2,H:15-106^28.7%ID^E:1.93e-14^RecName: Full=Uncharacterized protein At2g34160;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT2G34160
+TRINITY_DN252367_c0_g2	Y2416_ARATH^Y2416_ARATH^Q:882-301,H:15-130^40.7%ID^E:1.5e-29^RecName: Full=Uncharacterized protein At2g34160;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT2G34160
+TRINITY_DN252367_c0_g2	Y2416_ARATH^Y2416_ARATH^Q:742-2,H:15-106^28.7%ID^E:1.77e-14^RecName: Full=Uncharacterized protein At2g34160;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT2G34160
+TRINITY_DN252367_c0_g2	Y2416_ARATH^Y2416_ARATH^Q:1370-1227,H:15-64^60%ID^E:1.74e-07^RecName: Full=Uncharacterized protein At2g34160;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT2G34160
+TRINITY_DN252419_c1_g2	LOX21_SOLTU^LOX21_SOLTU^Q:273-2891,H:28-899^67.4%ID^E:0^RecName: Full=Linoleate 13S-lipoxygenase 2-1, chloroplastic {ECO:0000303|PubMed:8702864};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum	.	KEGG:sot:102596122
+TRINITY_DN252419_c1_g2	LOX21_SOLTU^LOX21_SOLTU^Q:273-2891,H:28-899^67.4%ID^E:0^RecName: Full=Linoleate 13S-lipoxygenase 2-1, chloroplastic {ECO:0000303|PubMed:8702864};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum	.	KEGG:sot:102596122
+TRINITY_DN252419_c1_g2	LOX21_SOLTU^LOX21_SOLTU^Q:268-2886,H:28-899^67.4%ID^E:0^RecName: Full=Linoleate 13S-lipoxygenase 2-1, chloroplastic {ECO:0000303|PubMed:8702864};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum	.	KEGG:sot:102596122
+TRINITY_DN252419_c1_g2	LOX21_SOLTU^LOX21_SOLTU^Q:268-2886,H:28-899^67.4%ID^E:0^RecName: Full=Linoleate 13S-lipoxygenase 2-1, chloroplastic {ECO:0000303|PubMed:8702864};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum	.	KEGG:sot:102596122
+TRINITY_DN252419_c1_g2	LOX21_SOLTU^LOX21_SOLTU^Q:1-705,H:665-899^67.7%ID^E:1.41e-113^RecName: Full=Linoleate 13S-lipoxygenase 2-1, chloroplastic {ECO:0000303|PubMed:8702864};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum	.	KEGG:sot:102596122
+TRINITY_DN252419_c1_g2	LOX21_SOLTU^LOX21_SOLTU^Q:273-1868,H:28-558^63.7%ID^E:1.19e-234^RecName: Full=Linoleate 13S-lipoxygenase 2-1, chloroplastic {ECO:0000303|PubMed:8702864};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum	.	KEGG:sot:102596122
+TRINITY_DN252419_c1_g2	LOX21_SOLTU^LOX21_SOLTU^Q:273-1868,H:28-558^63.7%ID^E:1.19e-234^RecName: Full=Linoleate 13S-lipoxygenase 2-1, chloroplastic {ECO:0000303|PubMed:8702864};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum	.	KEGG:sot:102596122
+TRINITY_DN252422_c0_g1	DTX40_ARATH^DTX40_ARATH^Q:1900-407,H:1-502^68.1%ID^E:1.64e-232^RecName: Full=Protein DETOXIFICATION 40 {ECO:0000303|PubMed:11739388};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT3G21690
+TRINITY_DN252422_c0_g1	DTX40_ARATH^DTX40_ARATH^Q:1900-407,H:1-502^68.1%ID^E:1.64e-232^RecName: Full=Protein DETOXIFICATION 40 {ECO:0000303|PubMed:11739388};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT3G21690
+TRINITY_DN252422_c0_g1	DTX40_ARATH^DTX40_ARATH^Q:1900-407,H:1-502^68.1%ID^E:1.64e-232^RecName: Full=Protein DETOXIFICATION 40 {ECO:0000303|PubMed:11739388};^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT3G21690
+TRINITY_DN252598_c0_g2	AROF_SOLLC^AROF_SOLLC^Q:356-3,H:179-296^90.7%ID^E:1.26e-71^RecName: Full=Phospho-2-dehydro-3-deoxyheptonate aldolase 1, chloroplastic;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum; Solanum subgen. Lycopersicon	.	.
+TRINITY_DN253013_c0_g1	C7A39_KALSE^C7A39_KALSE^Q:1709-225,H:25-520^48.3%ID^E:8.06e-176^RecName: Full=Cytochrome P450 72A397;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; campanulids; Apiales; Araliaceae; Kalopanax	.	.
+TRINITY_DN253013_c0_g1	C7A39_KALSE^C7A39_KALSE^Q:1801-317,H:25-520^48.1%ID^E:4.17e-173^RecName: Full=Cytochrome P450 72A397;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; campanulids; Apiales; Araliaceae; Kalopanax	.	.
+TRINITY_DN253083_c0_g1	.	.	.
+TRINITY_DN253253_c0_g1	GDL67_ARATH^GDL67_ARATH^Q:359-66,H:29-126^82.7%ID^E:2.64e-53^RecName: Full=GDSL esterase/lipase At4g28780;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT4G28780
+TRINITY_DN253253_c0_g1	GDL77_ARATH^GDL77_ARATH^Q:243-76,H:25-80^87.5%ID^E:5.51e-28^RecName: Full=GDSL esterase/lipase At5g18430;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT5G18430
+TRINITY_DN253253_c0_g1	GDL79_ARATH^GDL79_ARATH^Q:1317-277,H:20-366^78.7%ID^E:1.03e-200^RecName: Full=GDSL esterase/lipase At5g33370;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis	.	KEGG:ath:AT5G33370
+TRINITY_DN253777_c59_g30	.	LSU_rRNA_bacteria^RF02541^865-1143^+^247.6^8.5e-79	.
+TRINITY_DN253777_c59_g47	.	LSU_rRNA_bacteria^RF02541^993-1261^+^239.1^5.9e-76	.
+TRINITY_DN254149_c3_g1	.	tRNA^RF00005^1-71^-^51.9^6.7e-09`snoR114^RF01421^1-87^-^49.2^4.8e-07	.
+TRINITY_DN254248_c33_g38	.	LSU_rRNA_bacteria^RF02541^398-616^-^179.7^4.6e-56	.
+TRINITY_DN254693_c0_g1	.	.	.
+TRINITY_DN255557_c0_g1	.	tmRNA^RF00023^7-351^+^146.7^6.1e-41	.
+TRINITY_DN263983_c0_g1	.	.	.
+TRINITY_DN263983_c0_g1	.	.	.
+TRINITY_DN281606_c2_g4	ART3_YEAST^ART3_YEAST^Q:35-151,H:8-46^76.9%ID^E:3.93e-11^RecName: Full=Putative uncharacterized protein ART3;^Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces	5_8S_rRNA^RF00002^1-154^-^136.1^8.8e-35`SSU_rRNA_eukarya^RF01960^1719-1831^-^88.6^1e-22	.
+TRINITY_DN301181_c0_g1	.	.	.
+TRINITY_DN339101_c0_g1	.	.	.
+TRINITY_DN339101_c0_g1	.	.	.
+TRINITY_DN339101_c0_g1	.	.	.
+TRINITY_DN339101_c0_g1	.	.	.
+TRINITY_DN44892_c0_g2	.	U12^RF00007^1-155^+^95.0^2e-18	.

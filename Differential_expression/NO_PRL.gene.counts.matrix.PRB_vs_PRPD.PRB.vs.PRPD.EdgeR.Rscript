@@ -1,0 +1,27 @@
+if (! require(edgeR)) {
+   source("https://bioconductor.org/biocLite.R")
+   biocLite("edgeR")
+   library(edgeR)
+}
+
+data = read.table("/media/morpheus/disk2/NA/parijatk_rnaseq/Trinity_est/new/NO_PRL.gene.counts.matrix", header=T, row.names=1, com='')
+col_ordering = c(1,2,5,6)
+rnaseqMatrix = data[,col_ordering]
+rnaseqMatrix = round(rnaseqMatrix)
+rnaseqMatrix = rnaseqMatrix[rowSums(cpm(rnaseqMatrix) > 1) >= 2,]
+conditions = factor(c(rep("PRB", 2), rep("PRPD", 2)))
+
+exp_study = DGEList(counts=rnaseqMatrix, group=conditions)
+exp_study = calcNormFactors(exp_study)
+exp_study = estimateDisp(exp_study)
+et = exactTest(exp_study, pair=c("PRB", "PRPD"))
+tTags = topTags(et,n=NULL)
+result_table = tTags$table
+result_table = data.frame(sampleA="PRB", sampleB="PRPD", result_table)
+result_table$logFC = -1 * result_table$logFC
+write.table(result_table, file='NO_PRL.gene.counts.matrix.PRB_vs_PRPD.edgeR.DE_results', sep='	', quote=F, row.names=T)
+write.table(rnaseqMatrix, file='NO_PRL.gene.counts.matrix.PRB_vs_PRPD.edgeR.count_matrix', sep='	', quote=F, row.names=T)
+source("/media/morpheus/disk2/NA/parijatk_rnaseq/trinityrnaseq-v2.15.1/Analysis/DifferentialExpression/R/rnaseq_plot_funcs.R")
+pdf("NO_PRL.gene.counts.matrix.PRB_vs_PRPD.edgeR.DE_results.MA_n_Volcano.pdf")
+plot_MA_and_Volcano(rownames(result_table), result_table$logCPM, result_table$logFC, result_table$FDR)
+dev.off()

@@ -1,0 +1,33 @@
+library(edgeR)
+library(limma)
+
+data = read.table("/media/morpheus/disk2/NA/parijatk_rnaseq/Trinity_est/new/NO_PRL.gene.counts.matrix", header=T, row.names=1, com='')
+col_ordering = c(1,2,3,4)
+rnaseqMatrix = data[,col_ordering]
+rnaseqMatrix = round(rnaseqMatrix)
+rnaseqMatrix = rnaseqMatrix[rowSums(cpm(rnaseqMatrix) > 1) >= 2,]
+conditions = factor(c(rep("PRB", 2), rep("PRP", 2)))
+
+design = model.matrix(~conditions)
+## TMM normalize data
+lib_sizes = colSums(rnaseqMatrix)
+tmm_norm_factors = calcNormFactors(rnaseqMatrix, method='TMM')
+x = DGEList(counts=rnaseqMatrix)
+# voom transformation
+y = voom(x, design, lib.size=lib_sizes*tmm_norm_factors, plot=F)
+fit = eBayes(lmFit(y,design))
+tTags = topTable(fit,coef=2,number=Inf)
+# output results, including average expression val for each feature
+c = cpm(x)
+m = apply(c, 1, mean)
+tTags$logFC = -1 * tTags$logFC  # make A/B instead of B/A
+tTags2 = cbind(tTags, logCPM=log2(m[rownames(tTags)]))
+DE_matrix = data.frame(sampleA="PRB", sampleB="PRP", logFC=tTags$logFC, logCPM=tTags2$logCPM, PValue=tTags$'P.Value', FDR=tTags$'adj.P.Val')
+rownames(DE_matrix) = rownames(tTags)
+write.table(DE_matrix, file='NO_PRL.gene.counts.matrix.PRB_vs_PRP.voom.DE_results', sep='	', quote=F, row.names=T)
+write.table(rnaseqMatrix, file='NO_PRL.gene.counts.matrix.PRB_vs_PRP.voom.count_matrix', sep='	', quote=F, row.names=T)
+# MA and volcano plots
+source("/media/morpheus/disk2/NA/parijatk_rnaseq/trinityrnaseq-v2.15.1/Analysis/DifferentialExpression/R/rnaseq_plot_funcs.R")
+pdf("NO_PRL.gene.counts.matrix.PRB_vs_PRP.voom.DE_results.MA_n_Volcano.pdf")
+plot_MA_and_Volcano(rownames(tTags2), tTags2$logCPM, tTags$logFC, tTags$'adj.P.Val')
+dev.off()
