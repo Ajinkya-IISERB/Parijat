@@ -1,0 +1,246 @@
+TRINITY_DN4924_c0_g1	UPP_KOCRD	Uracil phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01218}	 Actinomycetota	KEGG:krh:KRH_03210
+TRINITY_DN10511_c0_g1	TRPD_SPHAL	Anthranilate phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_00211}	 Pseudomonadota	KEGG:sal:Sala_0836
+TRINITY_DN10529_c0_g1	PRPD_MYCTE	2-methylcitrate dehydratase {ECO:0000303|PubMed:16689789}	 Actinomycetota	KEGG:mtn:ERDMAN_1266
+TRINITY_DN13928_c0_g1	PRP19_ORYSJ	Pre-mRNA-processing factor 19 {ECO:0000305}	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4348844
+TRINITY_DN18481_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN18481_c0_g2	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN32895_c0_g1	PRP19_BOVIN	Pre-mRNA-processing factor 19 {ECO:0000305}	 Metazoa; Bovinae	KEGG:bta:513868
+TRINITY_DN35363_c1_g1	PHRB_AGRFC	(6-4) photolyase {ECO:0000303|PubMed:23589886}	 Pseudomonadota	KEGG:atu:Atu4765
+TRINITY_DN35459_c0_g1	UPP_KINRD	Uracil phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01218}	 Actinomycetota	KEGG:kra:Krad_0471
+TRINITY_DN47134_c0_g1	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN47134_c0_g1	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN47134_c0_g1	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN47134_c0_g1	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN51946_c0_g1	PRPF_CUPNE	2-methyl-aconitate isomerase {ECO:0000303|PubMed:11495997}	 Pseudomonadota	.
+TRINITY_DN81947_c0_g1	.	.	.	.
+TRINITY_DN81947_c0_g2	.	.	.	.
+TRINITY_DN85786_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN85786_c0_g2	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN98342_c0_g1	PRP22_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G26370
+TRINITY_DN105776_c0_g1	PRP8_HUMAN	Pre-mRNA-processing-splicing factor 8	 Metazoa; Homo	KEGG:hsa:10594
+TRINITY_DN105776_c0_g2	PRP8_HUMAN	Pre-mRNA-processing-splicing factor 8	 Metazoa; Homo	KEGG:hsa:10594
+TRINITY_DN107006_c0_g1	PRPB2_CORGL	Probable 2-methylisocitrate lyase 2 {ECO:0000305}	 Actinomycetota	KEGG:cgb:cg0760`KEGG:cgl:Cgl0658
+TRINITY_DN124252_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN126328_c0_g1	.	.	.	.
+TRINITY_DN126328_c0_g2	.	.	.	.
+TRINITY_DN143080_c0_g1	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN169499_c0_g1	PHRB_AGRFC	(6-4) photolyase {ECO:0000303|PubMed:23589886}	 Pseudomonadota	KEGG:atu:Atu4765
+TRINITY_DN173653_c0_g1	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN173653_c0_g2	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN180566_c0_g1	STA1_ARATH	Protein STABILIZED1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G03430
+TRINITY_DN180566_c0_g2	STA1_ARATH	Protein STABILIZED1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G03430
+TRINITY_DN192055_c0_g1	PRPR_MYCTU	HTH-type transcriptional regulator PrpR {ECO:0000303|PubMed:22365605}	 Actinomycetota	KEGG:mtu:Rv1129c`KEGG:mtv:RVBD_1129c
+TRINITY_DN199245_c0_g1	PRPD2_CORGL	2-methylcitrate dehydratase 2 {ECO:0000303|PubMed:11976302}	 Actinomycetota	KEGG:cgb:cg0759`KEGG:cgl:Cgl0657
+TRINITY_DN199245_c0_g2	PRPD2_CORGL	2-methylcitrate dehydratase 2 {ECO:0000303|PubMed:11976302}	 Actinomycetota	KEGG:cgb:cg0759`KEGG:cgl:Cgl0657
+TRINITY_DN217368_c0_g1	PRP18_BOVIN	Pre-mRNA-splicing factor 18	 Metazoa; Bovinae	KEGG:bta:507639
+TRINITY_DN217368_c0_g2	PRP18_RAT	Pre-mRNA-splicing factor 18	 Metazoa; Muridae; Rattus	KEGG:rno:171552
+TRINITY_DN218881_c0_g1	.	.	.	.
+TRINITY_DN222400_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN222400_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN232998_c1_g1	SRL1_ARATH	Pre-mRNA splicing factor SR-like 1 {ECO:0000303|PubMed:12047626}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G37370
+TRINITY_DN236744_c0_g1	PRP22_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G26370
+TRINITY_DN236744_c1_g1	PRP22_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G26370
+TRINITY_DN236744_c1_g2	PRP22_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G26370
+TRINITY_DN244523_c0_g1	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN244523_c0_g2	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN244898_c0_g1	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN244898_c0_g2	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN244898_c1_g1	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN244898_c1_g1	PRP38_ARATH	Pre-mRNA-splicing factor 38	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40650
+TRINITY_DN245270_c1_g1	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN245270_c1_g1	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN245270_c1_g1	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN246243_c0_g1	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN246243_c0_g2	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN246243_c0_g3	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN246243_c0_g3	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN246243_c0_g3	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN246243_c0_g3	PRP31_ARATH	U4/U6 small nuclear ribonucleoprotein Prp31 homolog {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G60170
+TRINITY_DN246424_c0_g1	.	.	.	.
+TRINITY_DN246424_c0_g3	.	.	.	.
+TRINITY_DN246604_c0_g1	PRP4_SCHPO	Serine/threonine-protein kinase prp4	 Fungi	KEGG:spo:SPCC777.14
+TRINITY_DN246604_c0_g2	PRP4B_HUMAN	Serine/threonine-protein kinase PRP4 homolog	 Metazoa; Homo	KEGG:hsa:8899
+TRINITY_DN247129_c0_g1	POLR1_ARATH	Retrovirus-related Pol polyprotein from transposon RE1	 Viridiplantae; Brassicaceae; Arabidopsis	.
+TRINITY_DN247911_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN247911_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN247911_c0_g1	PRPX_HORVU	Pathogen-related protein	 Viridiplantae; Triticeae; Hordeum	.
+TRINITY_DN248508_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN248508_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN248644_c0_g2	PRP17_MOUSE	Pre-mRNA-processing factor 17	 Metazoa; Muridae; Mus	KEGG:mmu:71713
+TRINITY_DN250389_c0_g1	RDM16_ARATH	Protein RDM16 {ECO:0000303|PubMed:24068953}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G28060
+TRINITY_DN250389_c0_g1	RDM16_ARATH	Protein RDM16 {ECO:0000303|PubMed:24068953}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G28060
+TRINITY_DN250753_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN250753_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN250753_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN250753_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN250753_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN250753_c0_g1	PRP16_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH7 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G13010
+TRINITY_DN250941_c0_g1	PRP4_ARATH	Proline-rich protein 4	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38770
+TRINITY_DN250941_c0_g2	PRP4_ARATH	Proline-rich protein 4	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38770
+TRINITY_DN250941_c2_g2	PRP4_ARATH	Proline-rich protein 4	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38770
+TRINITY_DN250941_c2_g2	PRP4_ARATH	Proline-rich protein 4	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38770
+TRINITY_DN250941_c2_g2	PRP4_ARATH	Proline-rich protein 4	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G38770
+TRINITY_DN251238_c0_g1	PRP4L_ARATH	U4/U6 small nuclear ribonucleoprotein PRP4-like protein {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G41500
+TRINITY_DN252720_c0_g1	STA1_ARATH	Protein STABILIZED1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G03430
+TRINITY_DN252720_c0_g1	STA1_ARATH	Protein STABILIZED1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G03430
+TRINITY_DN252720_c0_g1	STA1_ARATH	Protein STABILIZED1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G03430
+TRINITY_DN252720_c1_g1	STA1_ARATH	Protein STABILIZED1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G03430
+TRINITY_DN252720_c1_g1	STA1_ARATH	Protein STABILIZED1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G03430
+TRINITY_DN252970_c0_g3	PRP43_ARATH	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH3 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G47250
+TRINITY_DN253107_c0_g2	BUD32_DICDI	EKC/KEOPS complex subunit bud32	 Amoebozoa	KEGG:hsa:112858
+TRINITY_DN253107_c0_g2	BUD32_DICDI	EKC/KEOPS complex subunit bud32	 Amoebozoa	KEGG:hsa:112858
+TRINITY_DN253107_c0_g2	BUD32_DICDI	EKC/KEOPS complex subunit bud32	 Amoebozoa	KEGG:hsa:112858
+TRINITY_DN253579_c2_g1	ACT1_ORYSI	Actin-1	 Viridiplantae; Oryzinae; Oryza sativa	.
+TRINITY_DN253579_c2_g1	ACT1_ORYSI	Actin-1	 Viridiplantae; Oryzinae; Oryza sativa	.
+TRINITY_DN254023_c3_g1	PRP19_ORYSJ	Pre-mRNA-processing factor 19 {ECO:0000305}	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4348844
+TRINITY_DN254023_c4_g1	PRP19_ORYSJ	Pre-mRNA-processing factor 19 {ECO:0000305}	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4348844
+TRINITY_DN254023_c4_g1	PRP19_ORYSJ	Pre-mRNA-processing factor 19 {ECO:0000305}	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4348844
+TRINITY_DN254023_c4_g1	PRP19_ORYSJ	Pre-mRNA-processing factor 19 {ECO:0000305}	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4348844
+TRINITY_DN254023_c4_g1	PRP19_ORYSJ	Pre-mRNA-processing factor 19 {ECO:0000305}	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4348844
+TRINITY_DN254095_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254095_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254095_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254095_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254095_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254095_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254095_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254108_c0_g1	SF3A1_ARATH	Probable splicing factor 3A subunit 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G14650
+TRINITY_DN254108_c0_g1	SF3A1_ARATH	Probable splicing factor 3A subunit 1	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G14650
+TRINITY_DN254401_c0_g1	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN254401_c0_g1	.	.	.	.
+TRINITY_DN254401_c0_g1	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN254401_c0_g1	.	.	.	.
+TRINITY_DN254401_c0_g1	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN254401_c0_g2	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN254401_c0_g2	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN254401_c0_g2	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN254401_c0_g2	ACCA_ARATH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G38040
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN254423_c0_g1	PRP8A_ARATH	Pre-mRNA-processing-splicing factor 8A {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G80070
+TRINITY_DN265866_c0_g1	PRPE_SALTY	Propionate--CoA ligase	 Pseudomonadota	KEGG:stm:STM0371
+TRINITY_DN265866_c0_g1	PRPE_SALTY	Propionate--CoA ligase	 Pseudomonadota	KEGG:stm:STM0371
+TRINITY_DN265866_c0_g1	PRPE_SALTY	Propionate--CoA ligase	 Pseudomonadota	KEGG:stm:STM0371
+TRINITY_DN266930_c0_g1	UPP_RHILO	Uracil phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01218}	 Pseudomonadota	KEGG:mlo:mll3162
+TRINITY_DN267700_c0_g1	.	.	.	.
+TRINITY_DN271011_c0_g1	PRPC_CUPNE	2-methylcitrate synthase {ECO:0000303|PubMed:11495997}	 Pseudomonadota	.
+TRINITY_DN271133_c0_g1	PRPC_ABDS2	2-methylcitrate synthase {ECO:0000303|PubMed:9579066}	Bacteria	.
+TRINITY_DN273586_c0_g1	PRP2B_ORYSJ	Poly [ADP-ribose] polymerase 2-B	 Viridiplantae; Oryzinae; Oryza sativa	.
+TRINITY_DN278521_c0_g1	PRPC_SALTY	2-methylcitrate synthase {ECO:0000303|PubMed:10482501}	 Pseudomonadota	KEGG:stm:STM0369
+TRINITY_DN283765_c0_g1	PRP22_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G26370
+TRINITY_DN285414_c0_g1	PRP4B_HUMAN	Serine/threonine-protein kinase PRP4 homolog	 Metazoa; Homo	KEGG:hsa:8899
+TRINITY_DN285519_c0_g1	PRP22_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G26370
+TRINITY_DN286750_c0_g1	PRPB_ECOLI	2-methylisocitrate lyase {ECO:0000303|PubMed:11422389}	 Pseudomonadota	KEGG:ecj:JW0323`KEGG:eco:b0331
+TRINITY_DN290112_c0_g1	PRP8_HUMAN	Pre-mRNA-processing-splicing factor 8	 Metazoa; Homo	KEGG:hsa:10594
+TRINITY_DN293338_c0_g1	PUR1_PSEAE	Amidophosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01931}	 Pseudomonadota	KEGG:pae:PA3108
+TRINITY_DN300591_c0_g1	UPP_PARDP	Uracil phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01218}	 Pseudomonadota	KEGG:pde:Pden_2219
+TRINITY_DN303169_c0_g1	PRPS1_BOVIN	Ribose-phosphate pyrophosphokinase 1	 Metazoa; Bovinae	KEGG:bta:781227
+TRINITY_DN305178_c0_g1	PRPB_CUPNE	2-methylisocitrate lyase {ECO:0000303|PubMed:11495997}	 Pseudomonadota	.
+TRINITY_DN313734_c0_g1	PRP8_HUMAN	Pre-mRNA-processing-splicing factor 8	 Metazoa; Homo	KEGG:hsa:10594
+TRINITY_DN314291_c0_g1	MMGE_BACSU	Citrate/2-methylcitrate dehydratase {ECO:0000303|PubMed:28956599}	 Bacillota	KEGG:bsu:BSU24130
+TRINITY_DN314365_c0_g1	PRPF_SHEON	2-methyl-aconitate isomerase {ECO:0000303|PubMed:17567742}	 Pseudomonadota	KEGG:son:SO_0342
+TRINITY_DN318763_c0_g1	PRPR_MYCTU	HTH-type transcriptional regulator PrpR {ECO:0000303|PubMed:22365605}	 Actinomycetota	KEGG:mtu:Rv1129c`KEGG:mtv:RVBD_1129c
+TRINITY_DN318763_c0_g1	PRPR_MYCTU	HTH-type transcriptional regulator PrpR {ECO:0000303|PubMed:22365605}	 Actinomycetota	KEGG:mtu:Rv1129c`KEGG:mtv:RVBD_1129c
+TRINITY_DN321209_c0_g1	PRPC_CUPNE	2-methylcitrate synthase {ECO:0000303|PubMed:11495997}	 Pseudomonadota	.
+TRINITY_DN321572_c0_g1	UPP_CUTAK	Uracil phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01218}	 Actinomycetota	KEGG:pac:PPA2184
+TRINITY_DN336567_c0_g1	PUR1_ECOLI	Amidophosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01931, ECO:0000303|PubMed:6443594}	 Pseudomonadota	KEGG:ecj:JW2309`KEGG:eco:b2312
+TRINITY_DN340306_c0_g1	PRP4L_ARATH	U4/U6 small nuclear ribonucleoprotein PRP4-like protein {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G41500
+TRINITY_DN356034_c0_g1	PRPC_SALTY	2-methylcitrate synthase {ECO:0000303|PubMed:10482501}	 Pseudomonadota	KEGG:stm:STM0369
+TRINITY_DN362372_c0_g1	PRP16_BOVIN	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16	 Metazoa; Bovinae	KEGG:bta:520046
+TRINITY_DN366309_c0_g1	PRPC_ECOLI	2-methylcitrate synthase {ECO:0000303|PubMed:9579066}	 Pseudomonadota	KEGG:ecj:JW0324`KEGG:eco:b0333
+TRINITY_DN366360_c0_g1	PRP19_BOVIN	Pre-mRNA-processing factor 19 {ECO:0000305}	 Metazoa; Bovinae	KEGG:bta:513868
+TRINITY_DN367057_c0_g1	PRPC_MYCTE	2-methylcitrate synthase {ECO:0000303|PubMed:16689789}	 Actinomycetota	KEGG:mtn:ERDMAN_1267
+TRINITY_DN368402_c0_g1	PRPB_CUPNE	2-methylisocitrate lyase {ECO:0000303|PubMed:11495997}	 Pseudomonadota	.
+TRINITY_DN377394_c0_g1	UPP_CUTAK	Uracil phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01218}	 Actinomycetota	KEGG:pac:PPA2184
+TRINITY_DN380973_c0_g1	UPP_BEUC1	Uracil phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01218}	 Actinomycetota	KEGG:bcv:Bcav_0515
+TRINITY_DN381594_c0_g1	PRPB2_CORGL	Probable 2-methylisocitrate lyase 2 {ECO:0000305}	 Actinomycetota	KEGG:cgb:cg0760`KEGG:cgl:Cgl0658
+TRINITY_DN382556_c0_g1	PRP22_ARATH	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G26370
+TRINITY_DN390763_c0_g1	.	.	.	.
+TRINITY_DN398586_c0_g1	PRP39_DROME	Pre-mRNA-processing factor 39 {ECO:0000312|FlyBase:FBgn0039600}	 Metazoa; Drosophilidae; Sophophora	KEGG:dme:Dmel_CG1646
+TRINITY_DN400223_c0_g1	PRPF_SHEON	2-methyl-aconitate isomerase {ECO:0000303|PubMed:17567742}	 Pseudomonadota	KEGG:son:SO_0342
+TRINITY_DN402293_c0_g1	PRPB_CUPNE	2-methylisocitrate lyase {ECO:0000303|PubMed:11495997}	 Pseudomonadota	.
+TRINITY_DN404583_c0_g1	PRP19_ORYSJ	Pre-mRNA-processing factor 19 {ECO:0000305}	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4348844
+TRINITY_DN407639_c0_g1	PRP17_HUMAN	Pre-mRNA-processing factor 17	 Metazoa; Homo	KEGG:hsa:51362
+TRINITY_DN408120_c0_g1	PRPF_CUPNE	2-methyl-aconitate isomerase {ECO:0000303|PubMed:11495997}	 Pseudomonadota	.
+TRINITY_DN410983_c0_g1	PRPB_VIBCH	2-methylisocitrate lyase {ECO:0000255|HAMAP-Rule:MF_01939}	 Pseudomonadota	KEGG:vch:VC_1336
+TRINITY_DN103764_c2_g376	YCX91_PHAAO	Uncharacterized protein ORF91	 Viridiplantae; Phalaenopsis	.
+TRINITY_DN103764_c2_g583	YCX91_PHAAO	Uncharacterized protein ORF91	 Viridiplantae; Phalaenopsis	.
+TRINITY_DN159198_c0_g3	.	.	.	.
+TRINITY_DN163850_c20_g1	.	.	.	.
+TRINITY_DN174713_c0_g1	.	.	.	.
+TRINITY_DN178999_c13_g2	.	.	.	.
+TRINITY_DN180742_c0_g2	.	.	.	.
+TRINITY_DN187838_c0_g1	ARID3_ARATH	AT-rich interactive domain-containing protein 3	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G17410
+TRINITY_DN187838_c0_g1	.	.	.	.
+TRINITY_DN199857_c4_g3	.	.	.	.
+TRINITY_DN199857_c4_g4	.	.	.	.
+TRINITY_DN201213_c0_g4	.	.	.	.
+TRINITY_DN201213_c0_g4	.	.	.	.
+TRINITY_DN204061_c0_g1	.	.	.	.
+TRINITY_DN212698_c0_g1	.	.	.	.
+TRINITY_DN220788_c0_g3	.	.	.	.
+TRINITY_DN223702_c0_g1	.	.	.	.
+TRINITY_DN229216_c1_g27	.	.	.	.
+TRINITY_DN233198_c0_g1	.	.	.	.
+TRINITY_DN234233_c1_g1	.	.	.	.
+TRINITY_DN237652_c22_g5	.	.	.	.
+TRINITY_DN241868_c0_g5	.	.	.	.
+TRINITY_DN244526_c0_g2	NAC56_ARATH	NAC transcription factor 56 {ECO:0000303|PubMed:15029955}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G15510
+TRINITY_DN244526_c0_g2	NAC56_ARATH	NAC transcription factor 56 {ECO:0000303|PubMed:15029955}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G15510
+TRINITY_DN244662_c0_g1	ZDHC2_ARATH	Probable protein S-acyltransferase 23	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G14255
+TRINITY_DN244823_c0_g3	.	.	.	.
+TRINITY_DN244876_c0_g1	WTR18_ARATH	WAT1-related protein At3g28050	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G40240
+TRINITY_DN244876_c0_g1	WTR18_ARATH	WAT1-related protein At3g28050	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G28050
+TRINITY_DN244876_c0_g1	WTR42_ARATH	WAT1-related protein At5g40240	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G40240
+TRINITY_DN244876_c0_g1	WTR42_ARATH	WAT1-related protein At5g40240	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G40240
+TRINITY_DN244960_c0_g3	MSI1_SOLLC	WD-40 repeat-containing protein MSI1	 Viridiplantae; Solanaceae; Solaneae	KEGG:sly:543534
+TRINITY_DN246706_c59_g110	.	.	.	.
+TRINITY_DN248173_c0_g3	CYT3_ARATH	Cysteine proteinase inhibitor 3	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40880
+TRINITY_DN248173_c0_g3	CYTI_VIGUN	Cysteine proteinase inhibitor	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN248173_c0_g3	CYTI_VIGUN	Cysteine proteinase inhibitor	 Viridiplantae; Fabaceae; 50 kb inversion clade	.
+TRINITY_DN248398_c1_g2	.	.	.	.
+TRINITY_DN248398_c1_g2	.	.	.	.
+TRINITY_DN250807_c0_g2	LUMI_ARATH	Homeobox protein LUMINIDEPENDENS	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G02560
+TRINITY_DN250807_c0_g2	LUMI_ARATH	Homeobox protein LUMINIDEPENDENS	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G02560
+TRINITY_DN250807_c0_g2	LUMI_ARATH	Homeobox protein LUMINIDEPENDENS	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G02560
+TRINITY_DN250807_c0_g2	LUMI_ARATH	Homeobox protein LUMINIDEPENDENS	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G02560
+TRINITY_DN252907_c100_g51	.	.	.	.
+TRINITY_DN253245_c0_g3	SAP8_ORYSI	Zinc finger A20 and AN1 domain-containing stress-associated protein 8	 Viridiplantae; Oryzinae; Oryza sativa	.
+TRINITY_DN253245_c0_g3	SAP8_ORYSI	Zinc finger A20 and AN1 domain-containing stress-associated protein 8	 Viridiplantae; Oryzinae; Oryza sativa	.
+TRINITY_DN253245_c0_g3	SAP8_ORYSI	Zinc finger A20 and AN1 domain-containing stress-associated protein 8	 Viridiplantae; Oryzinae; Oryza sativa	.
+TRINITY_DN253245_c0_g3	.	.	.	.
+TRINITY_DN254405_c200_g2	ART2_YEAST	Putative uncharacterized protein ART2	 Fungi	.
+TRINITY_DN254495_c4_g1	.	.	.	.
+TRINITY_DN254576_c1_g8	.	.	.	.
+TRINITY_DN256620_c1_g1	.	.	.	.
+TRINITY_DN256620_c1_g1	.	.	.	.
+TRINITY_DN256620_c1_g1	.	.	.	.
+TRINITY_DN256620_c1_g1	.	.	.	.
+TRINITY_DN261725_c0_g1	.	.	.	.
+TRINITY_DN261725_c0_g1	.	.	.	.
+TRINITY_DN273395_c0_g1	.	.	.	.
+TRINITY_DN278768_c0_g1	.	.	.	.
+TRINITY_DN278768_c0_g1	.	.	.	.
+TRINITY_DN278768_c0_g1	.	.	.	.
+TRINITY_DN278768_c0_g1	.	.	.	.
+TRINITY_DN281438_c0_g1	.	.	.	.
+TRINITY_DN286047_c0_g1	TAR1_KLULA	Protein TAR1	 Fungi	KEGG:kla:KLLA0_D17600g`KEGG:kla:KLLA0_D17732g`KEGG:kla:KLLA0_D17864g
+TRINITY_DN292763_c1_g1	.	.	.	.
+TRINITY_DN294202_c1_g1	.	.	.	.
+TRINITY_DN323882_c0_g1	NASD_BACSU	Nitrite reductase [NAD(P)H]	 Bacillota	KEGG:bsu:BSU03300
+TRINITY_DN327347_c0_g1	.	.	.	.
+TRINITY_DN329805_c0_g1	GYRA_NICBE	DNA gyrase subunit A, chloroplastic/mitochondrial	 Viridiplantae; Solanaceae; Nicotianeae	.
+TRINITY_DN345287_c0_g1	.	.	.	.
+TRINITY_DN359922_c0_g1	.	.	.	.
+TRINITY_DN363960_c1_g2	.	.	.	.
+TRINITY_DN381848_c0_g1	.	.	.	.
+TRINITY_DN386110_c0_g1	NU155_ARATH	Nuclear pore complex protein NUP155 {ECO:0000303|PubMed:12034489}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G14850
+TRINITY_DN395126_c0_g1	.	.	.	.
+TRINITY_DN68805_c0_g1	.	.	.	.
+TRINITY_DN8416_c0_g1	.	.	.	.

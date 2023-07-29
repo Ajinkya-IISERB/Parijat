@@ -1,0 +1,2 @@
+"","category","term","number_of_genes","number_of_genes_in_background","ncbiTaxonId","inputGenes","preferredNames","p_value","fdr","description"
+"50","InterPro","IPR007828",3,4,3702,"3702.AT2G19800.1,3702.AT4G26260.2,3702.AT5G56640.1","MIOX2,MIOX4,MIOX5",4.6e-07,0.0026,"Inositol oxygenase"

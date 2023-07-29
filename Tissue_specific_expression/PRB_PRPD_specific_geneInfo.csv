@@ -1,0 +1,63 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"AT1G01620"," PIP1-3","AT1G01620",839235,"protein_coding","Arabidopsis thaliana","1",0.225665,"TMP-B [Source:UniProtKB/TrEMBL;Acc:A0A178WIA6]",41.09,2,1878,645,1279,223,320,4.5
+"AT1G05850"," CTL1","AT1G05850",837095,"protein_coding","Arabidopsis thaliana","1",1.766503,"Chitinase-like protein 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9MA41]",39.91,2,2334,966,1762.5,161,329,4
+"AT1G12950"," DTX31","AT1G12950",837853,"protein_coding","Arabidopsis thaliana","1",4.419714,"Protein DETOXIFICATION [Source:UniProtKB/TrEMBL;Acc:A0A178WCP4]",38.07,1,2970,1569,1926,134,221,8
+"AT1G31800"," CYP97A3","AT1G31800",840067,"protein_coding","Arabidopsis thaliana","1",11.396402,"Protein LUTEIN DEFICIENT 5, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q93VK5]",37.34,1,3312,1788,2070,37,243,15
+"AT1G33110"," DTX21","AT1G33110",840207,"protein_coding","Arabidopsis thaliana","1",12.004854,"Protein DETOXIFICATION [Source:UniProtKB/TrEMBL;Acc:A0A178WPH4]",35.96,2,3998,1215,1946,192.5,219,7.5
+"AT1G64230"," UBC28","AT1G64230",842728,"protein_coding","Arabidopsis thaliana","1",23.833485,"Ubiquitin-conjugating enzyme 28 [Source:UniProtKB/TrEMBL;Acc:F4I5B8]",34.94,5,2054,474,974,72,315,6
+"AT1G67080"," ABA4","AT1G67080",843028,"protein_coding","Arabidopsis thaliana","1",25.045151,"Protein ABA DEFICIENT 4, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8LFP9]",33.18,2,1952,492,1411,421,253,5.5
+"AT1G73030"," CHMP1B","AT1G73030",843634,"protein_coding","Arabidopsis thaliana","1",27.473763,"VPS46.2 [Source:UniProtKB/TrEMBL;Acc:A0A178W5G8]",39.85,1,1359,612,1061,174,273,2
+"AT2G07671"," ","AT2G07671",815343,"protein_coding","Arabidopsis thaliana","2",3.251566,"ATP synthase subunit 9, mitochondrial [Source:UniProtKB/TrEMBL;Acc:Q304C3]",43.17,1,775,258,776,227,289,1
+"AT2G07687"," ","AT2G07687",NA,"protein_coding","Arabidopsis thaliana","2",3.311654,"Cytochrome c oxidase, subunit III [Source:TAIR;Acc:AT2G07687]",41.58,1,997,798,998,NA,199,1
+"AT2G07695"," ","AT2G07695",NA,"protein_coding","Arabidopsis thaliana","2",3.345929,"Cytochrome C oxidase subunit II-like, transmembrane domain [Source:TAIR;Acc:AT2G07695]",45.47,1,1897,876,1898,1021,NA,1
+"AT2G07696"," RPS7","AT2G07696",815372,"protein_coding","Arabidopsis thaliana","2",3.35105,"At2g07696 [Source:UniProtKB/TrEMBL;Acc:Q6IDL0]",42.41,1,1178,447,1179,441,289,1
+"AT2G07727"," ","AT2G07727",815400,"protein_coding","Arabidopsis thaliana","2",3.449534,"Di-haem cytochrome, transmembrane;Cytochrome b/b6, C-terminal [Source:TAIR;Acc:AT2G07727]",41.41,1,3242,1182,3243,1328,731,1
+"AT2G07734"," ","AT2G07734",815406,"protein_coding","Arabidopsis thaliana","2",3.472305,"Alpha-L RNA-binding motif/Ribosomal protein S4 family protein [Source:TAIR;Acc:AT2G07734]",39.63,1,1387,1089,1388,NA,298,1
+"AT2G07741"," ","AT2G07741",815413,"protein_coding","Arabidopsis thaliana","2",3.502319,"ATP synthase subunit a [Source:UniProtKB/TrEMBL;Acc:A0A178U7J2]",39.21,1,1157,1158,1158,NA,NA,1
+"AT2G18420"," GASA11","AT2G18420",816357,"protein_coding","Arabidopsis thaliana","2",7.993801,"Gibberellin-regulated protein 11 [Source:UniProtKB/Swiss-Prot;Acc:F4IQJ4]",37.4,2,753,285,565,39.5,219,2.5
+"AT2G18540"," ","AT2G18540",816369,"protein_coding","Arabidopsis thaliana","2",8.042096,"RmlC-like cupins superfamily protein [Source:TAIR;Acc:AT2G18540]",41.73,2,2937,2136,2412,12,273.5,4
+"AT2G19800"," MIOX2","AT2G19800",816499,"protein_coding","Arabidopsis thaliana","2",8.530865,"At2g19800 [Source:UniProtKB/TrEMBL;Acc:B4F7Q2]",31.56,1,2914,954,1620,424,240,11
+"AT2G37660"," ","AT2G37660",818343,"protein_coding","Arabidopsis thaliana","2",15.795213,"Uncharacterized protein At2g37660, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O80934]",42.12,1,1846,978,1328,81,267,7
+"AT2G38730"," CYP22","AT2G38730",818455,"protein_coding","Arabidopsis thaliana","2",16.192325,"Peptidyl-prolyl cis-trans isomerase CYP22 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZVJ4]",37.5,1,1847,600,988,133,253,6
+"AT2G45600"," CXE8","AT2G45600",819168,"protein_coding","Arabidopsis thaliana","2",18.789489,"Probable carboxylesterase 8 [Source:UniProtKB/Swiss-Prot;Acc:O64640]",42.24,1,1526,990,1527,309,226,1
+"AT3G15660"," GRXS15","AT3G15660",820809,"protein_coding","Arabidopsis thaliana","3",5.307694,"GRX4 [Source:UniProtKB/TrEMBL;Acc:A0A178VHP8]",37.34,2,1930,510,1114,97,439,6.5
+"AT3G18830"," PLT5","AT3G18830",821416,"protein_coding","Arabidopsis thaliana","3",6.488843,"PMT5 [Source:UniProtKB/TrEMBL;Acc:A0A178V5Y2]",42.6,1,2586,1620,1997,219,156,4
+"AT3G26590"," DTX29","AT3G26590",822267,"protein_coding","Arabidopsis thaliana","3",9.761672,"Protein DETOXIFICATION 29 [Source:UniProtKB/Swiss-Prot;Acc:Q38956]",33.73,2,3898,1350,1810.5,217.5,241,7.5
+"AT3G46010"," ADF1","AT3G46010",823744,"protein_coding","Arabidopsis thaliana","3",16.909217,"Actin depolymerizing factor 1 [Source:UniProtKB/TrEMBL;Acc:A8MR09]",37.26,2,1628,436.5,977,150.5,388,3
+"AT3G47570"," ","AT3G47570",823911,"protein_coding","Arabidopsis thaliana","3",17.527507,"Probable LRR receptor-like serine/threonine-protein kinase At3g47570 [Source:UniProtKB/Swiss-Prot;Acc:C0LGP4]",39.04,1,3534,3033,3430,103,292,2
+"AT3G48890"," MSBP2","AT3G48890",824050,"protein_coding","Arabidopsis thaliana","3",18.129452,"Membrane steroid-binding protein 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9M2Z4]",36.99,1,2140,702,1158,216,238,2
+"AT3G57520"," RFS2","AT3G57520",824919,"protein_coding","Arabidopsis thaliana","3",21.288742,"Probable galactinol--sucrose galactosyltransferase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q94A08]",40.74,3,4429,1971,2727,110,239,14
+"AT3G57770"," ","AT3G57770",824946,"protein_coding","Arabidopsis thaliana","3",21.397542,"Protein kinase superfamily protein [Source:UniProtKB/TrEMBL;Acc:F4J3H7]",40.3,1,1381,810,1312,NA,501,2
+"AT3G58730"," VHA-D","AT3G58730",825042,"protein_coding","Arabidopsis thaliana","3",21.718188,"V-type proton ATPase subunit D [Source:UniProtKB/Swiss-Prot;Acc:Q9XGM1]",39.44,1,1865,786,1352,128.5,306,2
+"AT3G62700"," ABCC14","AT3G62700",825444,"protein_coding","Arabidopsis thaliana","3",23.190265,"ABC transporter C family member 14 [Source:UniProtKB/Swiss-Prot;Acc:Q9LZJ5]",42.35,1,5652,4620,4973,189,162,9
+"AT4G05020"," NDB2","AT4G05020",825844,"protein_coding","Arabidopsis thaliana","4",2.572427,"NAD(P)H dehydrogenase B2 [Source:UniProtKB/TrEMBL;Acc:F4JGL5]",37.55,2,4172,1804.5,2407.5,227,374,10.5
+"AT4G05050"," UBQ11","AT4G05050",828148,"protein_coding","Arabidopsis thaliana","4",2.588004,"Polyubiquitin [Source:UniProtKB/TrEMBL;Acc:Q8H0Y0]",42.75,4,1433,690,996,156.5,266,2
+"AT4G15470"," LFG5","AT4G15470",827218,"protein_coding","Arabidopsis thaliana","4",8.843519,"BI1-like protein [Source:UniProtKB/Swiss-Prot;Acc:Q94A20]",38.74,1,2291,771,1218,141,304,4
+"AT4G24920"," ","AT4G24920",828594,"protein_coding","Arabidopsis thaliana","4",12.819164,"secE/sec61-gamma protein transport protein [Source:TAIR;Acc:AT4G24920]",36.12,2,1804,294,853,65.5,422,3.5
+"AT4G26260"," MIOX4","AT4G26260",828732,"protein_coding","Arabidopsis thaliana","4",13.297695,"MIOX4 [Source:UniProtKB/TrEMBL;Acc:A0A178V1J3]",33.16,2,2749,955.5,1410,189,263.5,11
+"AT4G27960"," UBC9","AT4G27960",828909,"protein_coding","Arabidopsis thaliana","4",13.915531,"Ubiquitin conjugating enzyme 9 [Source:UniProtKB/TrEMBL;Acc:F4JKF3]",36.9,2,1969,447,1176,157,533,4.5
+"AT4G35100"," PIP2-7","AT4G35100",829662,"protein_coding","Arabidopsis thaliana","4",16.708361,"Aquaporin PIP2-7 [Source:UniProtKB/Swiss-Prot;Acc:P93004]",39.52,2,2046,843,1222,214.5,182,4.5
+"AT4G35790"," PLDDELTA","AT4G35790",829733,"protein_coding","Arabidopsis thaliana","4",16.955415,"Phospholipase D delta [Source:UniProtKB/Swiss-Prot;Acc:Q9C5Y0]",39.38,3,4992,2574,3264,294,345.5,10
+"AT4G39090"," RD19A","AT4G39090",830064,"protein_coding","Arabidopsis thaliana","4",18.215542,"RD19A [Source:UniProtKB/TrEMBL;Acc:A0A178V006]",43.47,1,2074,1107,1681,289,283,3
+"AT4G39350"," CESA2","AT4G39350",830090,"protein_coding","Arabidopsis thaliana","4",18.296388,"CESA2 [Source:UniProtKB/TrEMBL;Acc:A0A384LAI4]",38.79,1,5804,3255,4247,689,301,13
+"AT4G40030"," ","AT4G40030",830165,"protein_coding","Arabidopsis thaliana","4",18.555532,"Histone superfamily protein [Source:UniProtKB/TrEMBL;Acc:A8MRL0]",37.9,4,1574,411,988,311,221,4
+"AT4G40040"," HTR8","AT4G40040",830165,"protein_coding","Arabidopsis thaliana","4",18.557149,"Histone H3.3 [Source:UniProtKB/Swiss-Prot;Acc:P59169]",38.51,3,1796,411,1079,280,367,5
+"AT5G08290"," YLS8","AT5G08290",830725,"protein_coding","Arabidopsis thaliana","5",2.665899,"Thioredoxin-like protein YLS8 [Source:UniProtKB/Swiss-Prot;Acc:Q9FE62]",39.77,2,1362,369,1073.5,242,317,2
+"AT5G10980"," HTR8","AT5G10980",830165,"protein_coding","Arabidopsis thaliana","5",3.472405,"Histone H3.3 [Source:UniProtKB/Swiss-Prot;Acc:P59169]",38.85,1,1165,411,818,220,185,3
+"AT5G20020"," RAN2","AT5G20020",832124,"protein_coding","Arabidopsis thaliana","5",6.762569,"GTP-binding nuclear protein [Source:UniProtKB/TrEMBL;Acc:A0A178UQ77]",39.57,1,2114,666,1216,247,301,5
+"AT5G20250"," DIN10","AT5G20250",832147,"protein_coding","Arabidopsis thaliana","5",6.833564,"Raffinose synthase family protein [Source:UniProtKB/TrEMBL;Acc:F4K470]",43.07,4,3298,2250,2912,135.5,186,4.5
+"AT5G40650"," SDH2-2","AT5G40650",834065,"protein_coding","Arabidopsis thaliana","5",16.281394,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8LB02]",38.57,2,2133,759,1565.5,62,402,2
+"AT5G42300"," UBL5","AT5G42300",834235,"protein_coding","Arabidopsis thaliana","5",16.911579,"UBL5 [Source:UniProtKB/TrEMBL;Acc:A0A384KQX3]",38,1,2412,222,1425,158,1043,2
+"AT5G47840"," AMK2","AT5G47840",834835,"protein_coding","Arabidopsis thaliana","5",19.375317,"Adenylate kinase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FIJ7]",37.82,2,3148,831,1336,134.5,368.5,6
+"AT5G50460"," SEC61G2","AT5G50460",828594,"protein_coding","Arabidopsis thaliana","5",20.551132,"Protein transport protein Sec61 subunit gamma-1 [Source:UniProtKB/Swiss-Prot;Acc:P0DI74]",36.45,1,1538,210,909,160,537,3
+"AT5G53300"," UBC10","AT5G53300",835411,"protein_coding","Arabidopsis thaliana","5",21.632021,"Ubiquitin-conjugating enzyme E2 10 [Source:UniProtKB/Swiss-Prot;Acc:P35133]",37.05,4,2293,447,867,50,261,5
+"AT5G56640"," MIOX5","AT5G56640",835765,"protein_coding","Arabidopsis thaliana","5",22.92723,"Inositol oxygenase 5 [Source:UniProtKB/Swiss-Prot;Acc:Q9FJU4]",31.59,2,2487,900,1315.5,110.5,303,10.5
+"AT5G57360"," ZTL","AT5G57360",835842,"protein_coding","Arabidopsis thaliana","5",23.24132,"Galactose oxidase/kelch repeat superfamily protein [Source:UniProtKB/TrEMBL;Acc:F4KAN2]",43.81,2,3270,1881,2226,222.5,253.5,2.5
+"AT5G58220"," TTL","AT5G58220",835934,"protein_coding","Arabidopsis thaliana","5",23.554386,"Uric acid degradation bifunctional protein TTL [Source:UniProtKB/Swiss-Prot;Acc:Q9LVM5]",41.34,3,1615,936,1236,139,149,4
+"AT5G59420"," ORP3C","AT5G59420",836061,"protein_coding","Arabidopsis thaliana","5",23.961567,"Oxysterol-binding protein-related protein 3C [Source:UniProtKB/Swiss-Prot;Acc:Q93Y40]",37.85,1,3307,1374,1789,163,250,10
+"AT5G60600"," ISPG","AT5G60600",836181,"protein_coding","Arabidopsis thaliana","5",24.358885,"4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin), chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:F4K0E8]",39.25,5,4600,2154,2816,201,210,19
+"AT5G61670"," OR","AT5G61670",836289,"protein_coding","Arabidopsis thaliana","5",24.783429,"Protein ORANGE, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FKF4]",38.03,2,2836,924,1740,161.5,633,8.5
+"AT5G61790"," CNX1","AT5G61790",836301,"protein_coding","Arabidopsis thaliana","5",24.827063,"Calnexin homolog 1 [Source:UniProtKB/Swiss-Prot;Acc:P29402]",41.51,1,2837,1593,2182,257,330,6
+"AT5G62610"," BHLH79","AT5G62610",836382,"protein_coding","Arabidopsis thaliana","5",25.132841,"Transcription factor bHLH79 [Source:UniProtKB/Swiss-Prot;Acc:Q9LV17]",34.57,2,3224,846,1462,279,271.5,6.5
+"AT5G64440"," FAAH","AT5G64440",836565,"protein_coding","Arabidopsis thaliana","5",25.765712,"Fatty acid amide hydrolase [Source:UniProtKB/Swiss-Prot;Acc:Q7XJJ7]",37.38,1,4906,1824,2383,200,357,21
+"ARTHCP053",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

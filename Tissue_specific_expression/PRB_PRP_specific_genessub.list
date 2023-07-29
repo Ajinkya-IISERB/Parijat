@@ -1,0 +1,397 @@
+TRINITY_DN2660_c0_g1	MNMC_YERP3	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC {ECO:0000255|HAMAP-Rule:MF_01102}	 Pseudomonadota	KEGG:ypi:YpsIP31758_1410
+TRINITY_DN3826_c0_g1	PER51_ARATH	Peroxidase 51	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G37530
+TRINITY_DN3826_c0_g2	PER51_ARATH	Peroxidase 51	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G37530
+TRINITY_DN5289_c0_g1	ODP1_CORGL	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:cgb:cg2466`KEGG:cgl:Cgl2248
+TRINITY_DN5289_c0_g1	ODP1_CORGL	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:cgb:cg2466`KEGG:cgl:Cgl2248
+TRINITY_DN23497_c0_g1	RLMKL_ACIAD	Ribosomal RNA large subunit methyltransferase K/L {ECO:0000255|HAMAP-Rule:MF_01858}	 Pseudomonadota	KEGG:aci:ACIAD1268
+TRINITY_DN23497_c0_g2	RLMKL_ACIAD	Ribosomal RNA large subunit methyltransferase K/L {ECO:0000255|HAMAP-Rule:MF_01858}	 Pseudomonadota	KEGG:aci:ACIAD1268
+TRINITY_DN23637_c0_g1	COBQ_XANAC	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:xac:XAC3188
+TRINITY_DN23690_c0_g1	ODPA3_ARATH	Pyruvate dehydrogenase E1 component subunit alpha-3, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G01090
+TRINITY_DN23690_c0_g2	ODPA3_ARATH	Pyruvate dehydrogenase E1 component subunit alpha-3, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G01090
+TRINITY_DN33119_c0_g1	ODP1_CORGL	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:cgb:cg2466`KEGG:cgl:Cgl2248
+TRINITY_DN36212_c0_g1	MNMG_CHESB	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:mes:Meso_3471
+TRINITY_DN39378_c0_g1	MNMA_GRAFK	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Bacteroidota	KEGG:gfo:GFO_2222
+TRINITY_DN41902_c0_g1	6PGD_BACLI	6-phosphogluconate dehydrogenase, decarboxylating	 Bacillota	.
+TRINITY_DN41902_c1_g1	6PGD_ECOLI	6-phosphogluconate dehydrogenase, decarboxylating	 Pseudomonadota	KEGG:ecj:JW2011`KEGG:eco:b2029
+TRINITY_DN42348_c0_g1	ODP2_PSEAE	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	 Pseudomonadota	KEGG:pae:PA5016
+TRINITY_DN42948_c0_g1	MNME_SYNE7	tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}	 Cyanobacteria	KEGG:syf:Synpcc7942_1582
+TRINITY_DN42948_c0_g2	MNME_CYAP4	tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}	 Cyanobacteria	KEGG:cyn:Cyan7425_3656
+TRINITY_DN47155_c0_g1	ACCD_ACIAD	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Pseudomonadota	KEGG:aci:ACIAD0643
+TRINITY_DN50657_c0_g1	HCP_BACTN	Hydroxylamine reductase {ECO:0000255|HAMAP-Rule:MF_00069}	 Bacteroidota	KEGG:bth:BT_0687
+TRINITY_DN50657_c0_g2	HCP_BACTN	Hydroxylamine reductase {ECO:0000255|HAMAP-Rule:MF_00069}	 Bacteroidota	KEGG:bth:BT_0687
+TRINITY_DN62166_c0_g1	ACCD_ACIAD	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Pseudomonadota	KEGG:aci:ACIAD0643
+TRINITY_DN62166_c0_g2	ACCD_ACIAD	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Pseudomonadota	KEGG:aci:ACIAD0643
+TRINITY_DN64266_c0_g1	ALG9_ARATH	Dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G16900
+TRINITY_DN68318_c0_g1	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN68318_c0_g2	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN75864_c0_g1	COBQ_ACIAD	Cobyric acid synthase	 Pseudomonadota	KEGG:aci:ACIAD1071
+TRINITY_DN75864_c1_g1	COBQ_ACIAD	Cobyric acid synthase	 Pseudomonadota	KEGG:aci:ACIAD1071
+TRINITY_DN75819_c0_g1	MNMC_CUPNH	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC {ECO:0000255|HAMAP-Rule:MF_01102}	 Pseudomonadota	KEGG:reh:H16_A1481
+TRINITY_DN80199_c45_g1	MATK_OLEEU	Maturase K {ECO:0000255|HAMAP-Rule:MF_01390}	 Viridiplantae; Oleaceae; Olea	.
+TRINITY_DN87218_c0_g1	RLMKL_SACD2	Ribosomal RNA large subunit methyltransferase K/L {ECO:0000255|HAMAP-Rule:MF_01858}	 Pseudomonadota	KEGG:sde:Sde_1752
+TRINITY_DN91006_c0_g1	IUCA_VIBMI	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase	 Pseudomonadota	.
+TRINITY_DN91006_c0_g2	IUCA_VIBMI	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase	 Pseudomonadota	.
+TRINITY_DN91308_c0_g1	MNME_ERYLH	tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}	 Pseudomonadota	KEGG:eli:ELI_13050
+TRINITY_DN91308_c0_g1	MNME_ERYLH	tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}	 Pseudomonadota	KEGG:eli:ELI_13050
+TRINITY_DN91928_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN91928_c0_g2	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN92655_c0_g1	MNMA2_PHOV8	tRNA-specific 2-thiouridylase MnmA 2 {ECO:0000255|HAMAP-Rule:MF_00144}	 Bacteroidota	KEGG:bvu:BVU_0999
+TRINITY_DN96650_c0_g1	ACCD_NOVAD	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Pseudomonadota	KEGG:nar:Saro_1300
+TRINITY_DN101901_c0_g1	MIAB_XANAC	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:xac:XAC2461
+TRINITY_DN107674_c0_g1	RLMKL_ACIAD	Ribosomal RNA large subunit methyltransferase K/L {ECO:0000255|HAMAP-Rule:MF_01858}	 Pseudomonadota	KEGG:aci:ACIAD1268
+TRINITY_DN107789_c0_g1	RLMG_PSEA7	Ribosomal RNA large subunit methyltransferase G {ECO:0000255|HAMAP-Rule:MF_01859}	 Pseudomonadota	KEGG:pap:PSPA7_5261
+TRINITY_DN108460_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN112349_c0_g1	MNMG_BACTN	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Bacteroidota	KEGG:bth:BT_3268
+TRINITY_DN115460_c0_g1	ACCD_JANSC	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Pseudomonadota	KEGG:jan:Jann_0060
+TRINITY_DN116986_c0_g1	MNMA_MALP2	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Tenericutes	KEGG:mpe:MYPE8250
+TRINITY_DN121666_c0_g1	SFNG_PSEPU	FMNH(2)-dependent dimethylsulfone monooxygenase {ECO:0000303|PubMed:15661012}	 Pseudomonadota	.
+TRINITY_DN121641_c0_g1	PER21_ARATH	Peroxidase 21	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G37130
+TRINITY_DN121641_c0_g2	PER21_ARATH	Peroxidase 21	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G37130
+TRINITY_DN123958_c0_g1	COBQ_ACIAD	Cobyric acid synthase	 Pseudomonadota	KEGG:aci:ACIAD1071
+TRINITY_DN123958_c1_g1	COBQ_ACIAD	Cobyric acid synthase	 Pseudomonadota	KEGG:aci:ACIAD1071
+TRINITY_DN124018_c0_g1	MIAB_SULSY	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Aquificae	KEGG:sul:SYO3AOP1_0820
+TRINITY_DN125251_c0_g1	MNME_DINSH	tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}	 Pseudomonadota	KEGG:dsh:Dshi_3454
+TRINITY_DN130816_c0_g1	PUUB_ECOLI	Gamma-glutamylputrescine oxidoreductase	 Pseudomonadota	KEGG:ecj:JW1294`KEGG:eco:b1301
+TRINITY_DN131444_c0_g1	RIMO_PARDP	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:pde:Pden_2010
+TRINITY_DN139066_c0_g1	PSBB_CARPA	Photosystem II CP47 reaction center protein {ECO:0000255|HAMAP-Rule:MF_01495}	 Viridiplantae; Caricaceae	KEGG:cpap:5878371
+TRINITY_DN139066_c0_g2	PSBB_CARPA	Photosystem II CP47 reaction center protein {ECO:0000255|HAMAP-Rule:MF_01495}	 Viridiplantae; Caricaceae	KEGG:cpap:5878371
+TRINITY_DN139783_c0_g1	MFPA_CUCSA	Glyoxysomal fatty acid beta-oxidation multifunctional protein MFP-a	 Viridiplantae; Cucurbitaceae; Cucumis	KEGG:csv:101210295
+TRINITY_DN146504_c0_g1	DADA1_PSEPK	D-amino acid dehydrogenase 1	 Pseudomonadota	KEGG:ppu:PP_4434
+TRINITY_DN146724_c0_g1	MNMA_GRAFK	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Bacteroidota	KEGG:gfo:GFO_2222
+TRINITY_DN151896_c1_g1	RIMO_RHIWR	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:swi:Swit_0642
+TRINITY_DN152193_c1_g1	MNME_ACAM1	tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}	 Cyanobacteria	KEGG:amr:AM1_1728
+TRINITY_DN156781_c0_g1	ECI1_ARATH	Enoyl-CoA delta isomerase 1, peroxisomal {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G65520
+TRINITY_DN157072_c0_g1	MNMA_XANAC	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:xac:XAC1998
+TRINITY_DN157072_c0_g1	MNMA_XANAC	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:xac:XAC1998
+TRINITY_DN157072_c0_g1	MNMA_XANAC	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:xac:XAC1998
+TRINITY_DN158457_c0_g1	FADB_SERP5	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:spe:Spro_0261
+TRINITY_DN159491_c1_g1	FADB_PSYA2	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:par:Psyc_1934
+TRINITY_DN163071_c0_g1	MNMG_STUS1	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:psa:PST_4202
+TRINITY_DN164130_c0_g1	MIAB_ARTS2	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:art:Arth_1462
+TRINITY_DN165682_c0_g1	ACCD_NOVAD	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Pseudomonadota	KEGG:nar:Saro_1300
+TRINITY_DN169107_c0_g1	MFP_ORYSJ	Peroxisomal fatty acid beta-oxidation multifunctional protein	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4328997
+TRINITY_DN169107_c0_g2	MFP_ORYSJ	Peroxisomal fatty acid beta-oxidation multifunctional protein	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4328997
+TRINITY_DN169107_c0_g2	MFP_ORYSJ	Peroxisomal fatty acid beta-oxidation multifunctional protein	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4328997
+TRINITY_DN169841_c0_g1	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g1	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g1	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g2	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g2	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g2	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g3	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g3	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169841_c0_g3	COBB_RHOCB	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:rcp:RCAP_rcc02032
+TRINITY_DN169959_c0_g1	MFPA_BRANA	Glyoxysomal fatty acid beta-oxidation multifunctional protein MFP-a	 Viridiplantae; Brassicaceae; Brassica	KEGG:bna:106389027
+TRINITY_DN169959_c0_g2	MFPA_CUCSA	Glyoxysomal fatty acid beta-oxidation multifunctional protein MFP-a	 Viridiplantae; Cucurbitaceae; Cucumis	KEGG:csv:101210295
+TRINITY_DN174860_c0_g1	MNMA_CUTAK	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Actinomycetota	KEGG:pac:PPA1117
+TRINITY_DN174860_c0_g1	MNMA_CUTAK	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Actinomycetota	KEGG:pac:PPA1117
+TRINITY_DN175739_c0_g1	ECI1_ARATH	Enoyl-CoA delta isomerase 1, peroxisomal {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G65520
+TRINITY_DN175739_c0_g2	ECI1_ARATH	Enoyl-CoA delta isomerase 1, peroxisomal {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G65520
+TRINITY_DN177243_c0_g1	MNMG_ACIAD	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:aci:ACIAD2440
+TRINITY_DN177535_c0_g1	MNMG_NOVAD	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:nar:Saro_0136
+TRINITY_DN179873_c0_g1	RIMO_ERYLH	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:eli:ELI_00570
+TRINITY_DN179873_c1_g1	RIMO_RHIWR	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:swi:Swit_0642
+TRINITY_DN179873_c2_g1	RIMO_RHIWR	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:swi:Swit_0642
+TRINITY_DN179873_c2_g1	RIMO_RHIWR	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:swi:Swit_0642
+TRINITY_DN183452_c0_g1	GNGF_MYCLE	Putative gluconeogenesis factor {ECO:0000255|HAMAP-Rule:MF_00973}	 Actinomycetota	KEGG:mle:ML0564
+TRINITY_DN183452_c0_g2	GNGF_MYCLE	Putative gluconeogenesis factor {ECO:0000255|HAMAP-Rule:MF_00973}	 Actinomycetota	KEGG:mle:ML0564
+TRINITY_DN188416_c0_g1	MFP2_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein MFP2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G06860
+TRINITY_DN188416_c0_g2	MFP2_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein MFP2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G06860
+TRINITY_DN189667_c1_g1	MNMC_ACIAD	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC {ECO:0000255|HAMAP-Rule:MF_01102}	 Pseudomonadota	KEGG:aci:ACIAD3135
+TRINITY_DN195824_c0_g1	MIAB_RENSM	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:rsa:RSal33209_0726
+TRINITY_DN197987_c1_g1	ORDL_HAEIN	Probable oxidoreductase OrdL	 Pseudomonadota	KEGG:hin:HI_0499
+TRINITY_DN198586_c0_g1	SFNG_PSEPF	FMNH(2)-dependent dimethylsulfone monooxygenase {ECO:0000303|PubMed:27392454}	 Pseudomonadota	KEGG:pfo:Pfl01_2879
+TRINITY_DN202220_c0_g1	ACCA_STUS1	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Pseudomonadota	KEGG:psa:PST_1553
+TRINITY_DN203896_c0_g1	COBB_THEFY	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Actinomycetota	KEGG:tfu:Tfu_0311
+TRINITY_DN203896_c0_g1	COBB_THEFY	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Actinomycetota	KEGG:tfu:Tfu_0311
+TRINITY_DN204323_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN204829_c0_g1	MNMA_ACIAD	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:aci:ACIAD1221
+TRINITY_DN205489_c0_g1	FADB_ACIBC	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:abc:ACICU_00322
+TRINITY_DN205489_c0_g2	FADB_ACIBC	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:abc:ACICU_00322
+TRINITY_DN205489_c1_g1	FADB_ACIAD	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:aci:ACIAD0335
+TRINITY_DN209147_c0_g1	CDKAL_XENLA	Threonylcarbamoyladenosine tRNA methylthiotransferase	 Metazoa; Xenopus	KEGG:xla:432014
+TRINITY_DN209334_c0_g1	TPX_COREF	Thiol peroxidase {ECO:0000255|HAMAP-Rule:MF_00269}	 Actinomycetota	KEGG:cef:CE1141
+TRINITY_DN209334_c0_g2	TPX_COREF	Thiol peroxidase {ECO:0000255|HAMAP-Rule:MF_00269}	 Actinomycetota	KEGG:cef:CE1141
+TRINITY_DN213354_c1_g1	FADB_YERP3	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:ypi:YpsIP31758_0283
+TRINITY_DN213747_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN214922_c1_g1	ALG3_ARATH	Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G47760
+TRINITY_DN215371_c0_g1	COBB_THEFY	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Actinomycetota	KEGG:tfu:Tfu_0311
+TRINITY_DN216930_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN217735_c0_g1	GNGF_ECO57	Putative gluconeogenesis factor {ECO:0000255|HAMAP-Rule:MF_00973}	 Pseudomonadota	KEGG:ece:Z0999`KEGG:ecs:ECs_0858
+TRINITY_DN217735_c0_g2	GNGF_ECO57	Putative gluconeogenesis factor {ECO:0000255|HAMAP-Rule:MF_00973}	 Pseudomonadota	KEGG:ece:Z0999`KEGG:ecs:ECs_0858
+TRINITY_DN217735_c1_g1	GNGF_ECOLI	Putative gluconeogenesis factor {ECO:0000255|HAMAP-Rule:MF_00973}	 Pseudomonadota	KEGG:ecj:JW0763`KEGG:eco:b0780
+TRINITY_DN217735_c2_g1	GNGF_ECOLI	Putative gluconeogenesis factor {ECO:0000255|HAMAP-Rule:MF_00973}	 Pseudomonadota	KEGG:ecj:JW0763`KEGG:eco:b0780
+TRINITY_DN217738_c0_g1	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN217738_c1_g1	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN217738_c1_g2	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN218398_c1_g1	FADB_ALIFM	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:vfm:VFMJ11_0024
+TRINITY_DN219164_c0_g1	COBQ_CUTAK	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Actinomycetota	KEGG:pac:PPA0419
+TRINITY_DN219164_c0_g2	COBQ_CUTAK	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Actinomycetota	KEGG:pac:PPA0419
+TRINITY_DN219164_c1_g1	COBQ_CUTAK	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Actinomycetota	KEGG:pac:PPA0419
+TRINITY_DN219659_c1_g1	HMP_XYLFA	Flavohemoprotein {ECO:0000255|HAMAP-Rule:MF_01252}	 Pseudomonadota	KEGG:xfa:XF_0053
+TRINITY_DN220155_c0_g1	COBB_STUS1	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:psa:PST_1292
+TRINITY_DN220909_c1_g1	MIAB_ACIAD	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:aci:ACIAD3158
+TRINITY_DN221590_c0_g1	RSMC_ACIBC	Ribosomal RNA small subunit methyltransferase C {ECO:0000255|HAMAP-Rule:MF_01862}	 Pseudomonadota	KEGG:abc:ACICU_03085
+TRINITY_DN221590_c1_g1	RSMC_ACIAD	Ribosomal RNA small subunit methyltransferase C {ECO:0000255|HAMAP-Rule:MF_01862}	 Pseudomonadota	KEGG:aci:ACIAD0701
+TRINITY_DN223051_c0_g1	THIG_ACIAD	Thiazole synthase {ECO:0000255|HAMAP-Rule:MF_00443}	 Pseudomonadota	KEGG:aci:ACIAD1308
+TRINITY_DN224211_c0_g1	IUCA_VIBMI	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase	 Pseudomonadota	.
+TRINITY_DN228035_c0_g1	MNMG_ACIAD	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:aci:ACIAD2440
+TRINITY_DN228589_c0_g1	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN228589_c0_g2	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN230577_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN231380_c2_g2	ODP1_CUPNH	Pyruvate dehydrogenase E1 component	 Pseudomonadota	KEGG:reh:H16_A1374
+TRINITY_DN231380_c4_g1	ODP1_CUPNH	Pyruvate dehydrogenase E1 component	 Pseudomonadota	KEGG:reh:H16_A1374
+TRINITY_DN231649_c1_g1	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40190
+TRINITY_DN231649_c1_g2	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40190
+TRINITY_DN232345_c1_g1	FAD3_RICPR	Putative fatty acid oxidation complex trifunctional enzyme	 Pseudomonadota	KEGG:rpr:RP560
+TRINITY_DN232345_c1_g1	FAD3_RICPR	Putative fatty acid oxidation complex trifunctional enzyme	 Pseudomonadota	KEGG:rpr:RP560
+TRINITY_DN232568_c0_g1	ALG3_ARATH	Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G47760
+TRINITY_DN232568_c1_g1	ALG3_ARATH	Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G47760
+TRINITY_DN233852_c0_g2	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN234461_c1_g1	MOCS3_ARATH	Adenylyltransferase and sulfurtransferase MOCS3 {ECO:0000255|HAMAP-Rule:MF_03049}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G55130
+TRINITY_DN234461_c1_g1	MOCS3_ARATH	Adenylyltransferase and sulfurtransferase MOCS3 {ECO:0000255|HAMAP-Rule:MF_03049}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G55130
+TRINITY_DN234893_c0_g1	PER29_ARATH	Peroxidase 29	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G17070
+TRINITY_DN234929_c0_g2	PER17_ARATH	Peroxidase 17	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G22420
+TRINITY_DN235088_c0_g1	MIAB_KOCRD	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:krh:KRH_15820
+TRINITY_DN235088_c1_g1	MIAB_RENSM	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:rsa:RSal33209_0726
+TRINITY_DN235088_c1_g1	MIAB_RENSM	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:rsa:RSal33209_0726
+TRINITY_DN235088_c1_g1	MIAB_RENSM	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:rsa:RSal33209_0726
+TRINITY_DN235088_c1_g1	MIAB_RENSM	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:rsa:RSal33209_0726
+TRINITY_DN235847_c0_g1	MOCS3_ARATH	Adenylyltransferase and sulfurtransferase MOCS3 {ECO:0000255|HAMAP-Rule:MF_03049}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G55130
+TRINITY_DN236123_c0_g1	MTAB_RICPR	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Pseudomonadota	KEGG:rpr:RP416
+TRINITY_DN236123_c0_g1	MTAB_RICPR	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Pseudomonadota	KEGG:rpr:RP416
+TRINITY_DN236123_c1_g1	MTAB_RICPR	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Pseudomonadota	KEGG:rpr:RP416
+TRINITY_DN236441_c1_g2	CTU1_ARATH	Cytoplasmic tRNA 2-thiolation protein 1 {ECO:0000255|HAMAP-Rule:MF_03053}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G44270
+TRINITY_DN236441_c1_g2	CTU1_ARATH	Cytoplasmic tRNA 2-thiolation protein 1 {ECO:0000255|HAMAP-Rule:MF_03053}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G44270
+TRINITY_DN236465_c0_g1	MNMG_ACIAD	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:aci:ACIAD2440
+TRINITY_DN236465_c1_g1	MNMG_ACIAD	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:aci:ACIAD2440
+TRINITY_DN236602_c0_g1	CDKAL_DROPS	Threonylcarbamoyladenosine tRNA methylthiotransferase	 Metazoa; Drosophilidae; Sophophora	KEGG:dpo:4803921
+TRINITY_DN237009_c0_g1	DADA_ACIAD	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:aci:ACIAD0115
+TRINITY_DN237009_c0_g2	DADA_ACIAD	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:aci:ACIAD0115
+TRINITY_DN238459_c1_g1	HMP_CHRVO	Flavohemoprotein {ECO:0000255|HAMAP-Rule:MF_01252}	 Pseudomonadota	KEGG:cvi:CV_3488
+TRINITY_DN241667_c0_g1	FADB_PSYA2	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:par:Psyc_1934
+TRINITY_DN243296_c0_g1	6PGD2_ARATH	6-phosphogluconate dehydrogenase, decarboxylating 2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02360
+TRINITY_DN243609_c0_g1	FADB_ACIB3	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	.
+TRINITY_DN243609_c1_g2	FADB_ACIB3	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	.
+TRINITY_DN245854_c0_g1	ARGJ_THEFY	Arginine biosynthesis bifunctional protein ArgJ {ECO:0000255|HAMAP-Rule:MF_01106}	 Actinomycetota	KEGG:tfu:Tfu_2056
+TRINITY_DN245854_c0_g2	ARGJ_THEFY	Arginine biosynthesis bifunctional protein ArgJ {ECO:0000255|HAMAP-Rule:MF_01106}	 Actinomycetota	KEGG:tfu:Tfu_2056
+TRINITY_DN246388_c0_g1	ALG9_ARATH	Dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G16900
+TRINITY_DN246388_c1_g1	ALG9_ARATH	Dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G16900
+TRINITY_DN246732_c0_g1	.	.	.	.
+TRINITY_DN247321_c0_g1	MNMA_ACIAD	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:aci:ACIAD1221
+TRINITY_DN247779_c1_g1	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40190
+TRINITY_DN247779_c1_g2	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40190
+TRINITY_DN247779_c1_g3	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40190
+TRINITY_DN247779_c1_g4	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40190
+TRINITY_DN247779_c1_g5	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G40190
+TRINITY_DN248078_c0_g1	URM12_ARATH	Ubiquitin-related modifier 1 homolog 2 {ECO:0000255|HAMAP-Rule:MF_03048}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G61113
+TRINITY_DN248024_c0_g2	ECI2_ARATH	Enoyl-CoA delta isomerase 2, peroxisomal {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G14430
+TRINITY_DN248534_c27_g1	RBL_JASNU	Ribulose bisphosphate carboxylase large chain {ECO:0000255|HAMAP-Rule:MF_01338}	 Viridiplantae; Oleaceae; Jasminum	KEGG:nsy:3735048
+TRINITY_DN248790_c1_g1	TRM2_ARATH	tRNA (guanine(26)-N(2))-dimethyltransferase 2 {ECO:0000303|PubMed:33253256}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02320
+TRINITY_DN248790_c1_g1	TRM2_ARATH	tRNA (guanine(26)-N(2))-dimethyltransferase 2 {ECO:0000303|PubMed:33253256}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02320
+TRINITY_DN248790_c1_g1	TRM2_ARATH	tRNA (guanine(26)-N(2))-dimethyltransferase 2 {ECO:0000303|PubMed:33253256}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02320
+TRINITY_DN249643_c0_g1	PER42_ARATH	Peroxidase 42	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G21960
+TRINITY_DN250205_c0_g1	TRM2_ARATH	tRNA (guanine(26)-N(2))-dimethyltransferase 2 {ECO:0000303|PubMed:33253256}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02320
+TRINITY_DN250205_c0_g1	TRM2_ARATH	tRNA (guanine(26)-N(2))-dimethyltransferase 2 {ECO:0000303|PubMed:33253256}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02320
+TRINITY_DN250205_c0_g1	TRM2_ARATH	tRNA (guanine(26)-N(2))-dimethyltransferase 2 {ECO:0000303|PubMed:33253256}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02320
+TRINITY_DN250205_c0_g1	TRM2_ARATH	tRNA (guanine(26)-N(2))-dimethyltransferase 2 {ECO:0000303|PubMed:33253256}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02320
+TRINITY_DN250752_c0_g1	MNMG_SYNE7	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Cyanobacteria	KEGG:syf:Synpcc7942_2423
+TRINITY_DN250752_c0_g1	MNMG_SYNE7	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Cyanobacteria	KEGG:syf:Synpcc7942_2423
+TRINITY_DN251463_c0_g1	ODPA_SOLTU	Pyruvate dehydrogenase E1 component subunit alpha, mitochondrial	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN251463_c0_g1	ODPA_SOLTU	Pyruvate dehydrogenase E1 component subunit alpha, mitochondrial	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN251734_c0_g1	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20150
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20150
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20150
+TRINITY_DN251734_c0_g2	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nta:800516
+TRINITY_DN252430_c26_g1	RPOB_NICSY	DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321}	 Viridiplantae; Solanaceae; Nicotianeae	KEGG:nsy:3735090
+TRINITY_DN252925_c0_g1	6PGD2_ARATH	6-phosphogluconate dehydrogenase, decarboxylating 2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02360
+TRINITY_DN252925_c0_g1	6PGD2_ARATH	6-phosphogluconate dehydrogenase, decarboxylating 2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02360
+TRINITY_DN252925_c0_g1	6PGD2_ARATH	6-phosphogluconate dehydrogenase, decarboxylating 2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02360
+TRINITY_DN252925_c0_g1	6PGD2_ARATH	6-phosphogluconate dehydrogenase, decarboxylating 2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G02360
+TRINITY_DN253335_c0_g1	6PGD3_ARATH	6-phosphogluconate dehydrogenase, decarboxylating 3, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G41670
+TRINITY_DN253335_c0_g1	6PGD3_ARATH	6-phosphogluconate dehydrogenase, decarboxylating 3, chloroplastic {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G41670
+TRINITY_DN253524_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN253524_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN253524_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN253524_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN253524_c0_g1	ODPB1_ORYSJ	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4346159
+TRINITY_DN253871_c0_g1	ODPA3_ARATH	Pyruvate dehydrogenase E1 component subunit alpha-3, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G01090
+TRINITY_DN253871_c0_g1	ODPA3_ARATH	Pyruvate dehydrogenase E1 component subunit alpha-3, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G01090
+TRINITY_DN253871_c0_g1	ODPA3_ARATH	Pyruvate dehydrogenase E1 component subunit alpha-3, chloroplastic	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G01090
+TRINITY_DN253848_c0_g2	ODP22_ARATH	Dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G13930
+TRINITY_DN253848_c0_g2	ODP22_ARATH	Dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G13930
+TRINITY_DN253848_c0_g2	ODP22_ARATH	Dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G13930
+TRINITY_DN253848_c0_g2	ODP23_ARATH	Dihydrolipoyllysine-residue acetyltransferase component 3 of pyruvate dehydrogenase complex, mitochondrial	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G54220
+TRINITY_DN253986_c0_g1	MFP2_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein MFP2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G06860
+TRINITY_DN253986_c0_g1	MFPA_CUCSA	Glyoxysomal fatty acid beta-oxidation multifunctional protein MFP-a	 Viridiplantae; Cucurbitaceae; Cucumis	KEGG:csv:101210295
+TRINITY_DN253986_c0_g1	MFPA_CUCSA	Glyoxysomal fatty acid beta-oxidation multifunctional protein MFP-a	 Viridiplantae; Cucurbitaceae; Cucumis	KEGG:csv:101210295
+TRINITY_DN253986_c0_g1	MFP2_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein MFP2 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT3G06860
+TRINITY_DN254050_c0_g1	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g2	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g3	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g4	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g4	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g5	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g5	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g7	MFP_ORYSJ	Peroxisomal fatty acid beta-oxidation multifunctional protein	 Viridiplantae; Oryzinae; Oryza sativa	KEGG:osa:4328997
+TRINITY_DN254050_c0_g7	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g8	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g9	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN254050_c0_g10	AIM1_ARATH	Peroxisomal fatty acid beta-oxidation multifunctional protein AIM1 {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT4G29010
+TRINITY_DN255760_c0_g1	COBQ_RHIWR	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:swi:Swit_4734
+TRINITY_DN255760_c0_g1	COBQ_RHIWR	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:swi:Swit_4734
+TRINITY_DN255760_c0_g1	COBQ_RHIWR	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:swi:Swit_4734
+TRINITY_DN256602_c0_g1	THIG_CUTAK	Thiazole synthase {ECO:0000255|HAMAP-Rule:MF_00443}	 Actinomycetota	KEGG:pac:PPA0519
+TRINITY_DN256881_c0_g1	THIG_NOVAD	Thiazole synthase {ECO:0000255|HAMAP-Rule:MF_00443}	 Pseudomonadota	KEGG:nar:Saro_3290
+TRINITY_DN258533_c0_g1	ODP1_MYCTO	Pyruvate dehydrogenase E1 component {ECO:0000250|UniProtKB:P9WIS9}	 Actinomycetota	KEGG:mtc:MT2301
+TRINITY_DN261548_c0_g1	6PGD_HAEIN	6-phosphogluconate dehydrogenase, decarboxylating	 Pseudomonadota	KEGG:hin:HI_0553
+TRINITY_DN263407_c0_g1	ACCA_BRASB	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Pseudomonadota	KEGG:bbt:BBta_7576
+TRINITY_DN264399_c0_g1	MNMG_SYNY3	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Cyanobacteria	KEGG:syn:sll0202
+TRINITY_DN265539_c0_g1	CDKAL_HUMAN	Threonylcarbamoyladenosine tRNA methylthiotransferase	 Metazoa; Homo	KEGG:hsa:54901
+TRINITY_DN265682_c0_g1	CTU2_ORYSI	Cytoplasmic tRNA 2-thiolation protein 2 {ECO:0000255|HAMAP-Rule:MF_03054}	 Viridiplantae; Oryzinae; Oryza sativa	.
+TRINITY_DN266546_c0_g1	ODPB_ZYMMO	Pyruvate dehydrogenase E1 component subunit beta	 Pseudomonadota	KEGG:zmo:ZMO1605
+TRINITY_DN266994_c0_g1	MIAB_DESOH	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:dol:Dole_2355
+TRINITY_DN267866_c0_g1	COBQ_SPHAL	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:sal:Sala_2756
+TRINITY_DN267866_c0_g1	COBQ_SPHAL	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:sal:Sala_2756
+TRINITY_DN267866_c0_g1	COBQ_SPHAL	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:sal:Sala_2756
+TRINITY_DN268284_c0_g1	COBQ_CUTAK	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Actinomycetota	KEGG:pac:PPA0419
+TRINITY_DN268284_c0_g1	COBQ_CUTAK	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Actinomycetota	KEGG:pac:PPA0419
+TRINITY_DN268284_c0_g1	COBQ_CUTAK	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Actinomycetota	KEGG:pac:PPA0419
+TRINITY_DN268857_c0_g1	ASTB_SPHAL	N-succinylarginine dihydrolase {ECO:0000255|HAMAP-Rule:MF_01172}	 Pseudomonadota	KEGG:sal:Sala_1941
+TRINITY_DN271128_c0_g1	HMP_BORBR	Flavohemoprotein {ECO:0000255|HAMAP-Rule:MF_01252}	 Pseudomonadota	KEGG:bbr:BB3091
+TRINITY_DN271660_c0_g1	MTAB_BACSU	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Bacillota	KEGG:bsu:BSU25430
+TRINITY_DN272617_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN272899_c0_g1	TRM1_HUMAN	tRNA (guanine(26)-N(2))-dimethyltransferase	 Metazoa; Homo	KEGG:hsa:55621
+TRINITY_DN273815_c0_g1	FADB_PSYWF	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:prw:PsycPRwf_2100
+TRINITY_DN276037_c0_g1	ECI1_MOUSE	Enoyl-CoA delta isomerase 1, mitochondrial {ECO:0000305}	 Metazoa; Muridae; Mus	KEGG:mmu:13177
+TRINITY_DN276706_c0_g1	ACCA_FLAJ1	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Bacteroidota	KEGG:fjo:Fjoh_0042
+TRINITY_DN278597_c0_g1	ALG10_ARATH	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT5G02410
+TRINITY_DN286638_c0_g1	ODP1_CORGL	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:cgb:cg2466`KEGG:cgl:Cgl2248
+TRINITY_DN292404_c0_g1	SFNG_PSEPU	FMNH(2)-dependent dimethylsulfone monooxygenase {ECO:0000303|PubMed:15661012}	 Pseudomonadota	.
+TRINITY_DN294802_c0_g1	ODP2_ZYMMO	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	 Pseudomonadota	KEGG:zmo:ZMO0510
+TRINITY_DN296504_c0_g1	6PGD_STAEQ	6-phosphogluconate dehydrogenase, decarboxylating	 Bacillota	KEGG:ser:SERP1071
+TRINITY_DN296870_c0_g1	MNMA_SACEN	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Actinomycetota	KEGG:sen:SACE_6187
+TRINITY_DN297729_c0_g1	COBQ_PARDP	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Pseudomonadota	KEGG:pde:Pden_3713
+TRINITY_DN297807_c0_g1	MIAB_CYTH3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Bacteroidota	KEGG:chu:CHU_1821
+TRINITY_DN297807_c0_g2	MIAB_CYTH3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Bacteroidota	KEGG:chu:CHU_1821
+TRINITY_DN299124_c0_g1	MIAB_PHEZH	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:pzu:PHZ_c3454
+TRINITY_DN299850_c0_g1	ODP1_CORGL	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:cgb:cg2466`KEGG:cgl:Cgl2248
+TRINITY_DN304081_c0_g1	ALG12_ARATH	Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G02145
+TRINITY_DN305029_c0_g1	ACCD_STRMK	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Pseudomonadota	KEGG:sml:Smlt3415
+TRINITY_DN309047_c0_g1	MIAB_CUTAK	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:pac:PPA1017
+TRINITY_DN309129_c0_g1	MIAB_ERYLH	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:eli:ELI_08495
+TRINITY_DN309129_c1_g1	MIAB_ERYLH	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:eli:ELI_08495
+TRINITY_DN309607_c0_g1	ARGJ_ACIAD	Arginine biosynthesis bifunctional protein ArgJ {ECO:0000255|HAMAP-Rule:MF_01106}	 Pseudomonadota	KEGG:aci:ACIAD0650
+TRINITY_DN309880_c0_g1	MNMC_SALPA	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC {ECO:0000255|HAMAP-Rule:MF_01102}	 Pseudomonadota	KEGG:spt:SPA0485
+TRINITY_DN310032_c0_g1	MNMC_AERHH	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC {ECO:0000255|HAMAP-Rule:MF_01102}	 Pseudomonadota	KEGG:aha:AHA_1919
+TRINITY_DN310405_c0_g1	ODP1_CORGL	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:cgb:cg2466`KEGG:cgl:Cgl2248
+TRINITY_DN310903_c0_g1	ARGJ_THEFY	Arginine biosynthesis bifunctional protein ArgJ {ECO:0000255|HAMAP-Rule:MF_01106}	 Actinomycetota	KEGG:tfu:Tfu_2056
+TRINITY_DN310971_c0_g1	MIAB_ERYLH	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:eli:ELI_08495
+TRINITY_DN311353_c0_g1	MNMA_RHIWR	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:swi:Swit_4751
+TRINITY_DN312516_c0_g1	ODP1_CORGL	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:cgb:cg2466`KEGG:cgl:Cgl2248
+TRINITY_DN313264_c0_g1	PER16_ARATH	Peroxidase 16	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G18980
+TRINITY_DN313867_c0_g1	ACCD_FUSNN	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Fusobacteria	KEGG:fnu:FN0408
+TRINITY_DN314645_c0_g1	MNMA_STUS1	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:psa:PST_2304
+TRINITY_DN314975_c0_g1	MIAB_ALKEH	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:aeh:Mlg_0394
+TRINITY_DN315870_c0_g1	MTAB_RICPR	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Pseudomonadota	KEGG:rpr:RP416
+TRINITY_DN316137_c0_g1	CRSP_ARATH	CO(2)-response secreted protease {ECO:0000303|PubMed:25043023}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G20160
+TRINITY_DN317939_c0_g1	6PGD_LACLA	6-phosphogluconate dehydrogenase, decarboxylating	 Bacillota	KEGG:lla:L0046
+TRINITY_DN318089_c0_g1	SFNG_PSEPF	FMNH(2)-dependent dimethylsulfone monooxygenase {ECO:0000303|PubMed:27392454}	 Pseudomonadota	KEGG:pfo:Pfl01_2879
+TRINITY_DN321452_c0_g1	RLMKL_VIBC1	Ribosomal RNA large subunit methyltransferase K/L {ECO:0000255|HAMAP-Rule:MF_01858}	 Pseudomonadota	KEGG:vha:VIBHAR_02337
+TRINITY_DN321891_c0_g1	ORDL_HAEIN	Probable oxidoreductase OrdL	 Pseudomonadota	KEGG:hin:HI_0499
+TRINITY_DN322840_c0_g1	ARGJ_ACIAD	Arginine biosynthesis bifunctional protein ArgJ {ECO:0000255|HAMAP-Rule:MF_01106}	 Pseudomonadota	KEGG:aci:ACIAD0650
+TRINITY_DN323605_c0_g1	THIOG_TRIV2	Bifunctional protein ThiO/ThiG	 Cyanobacteria	KEGG:ava:Ava_3219
+TRINITY_DN323605_c0_g2	THIOG_TRIV2	Bifunctional protein ThiO/ThiG	 Cyanobacteria	KEGG:ava:Ava_3219
+TRINITY_DN323605_c0_g3	THIOG_TRIV2	Bifunctional protein ThiO/ThiG	 Cyanobacteria	KEGG:ava:Ava_3219
+TRINITY_DN323730_c0_g1	ODP1_CUPNH	Pyruvate dehydrogenase E1 component	 Pseudomonadota	KEGG:reh:H16_A1374
+TRINITY_DN324540_c0_g1	MNMG_STRPN	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Bacillota	KEGG:spn:SP_0120
+TRINITY_DN326708_c0_g1	GNGF_ECO57	Putative gluconeogenesis factor {ECO:0000255|HAMAP-Rule:MF_00973}	 Pseudomonadota	KEGG:ece:Z0999`KEGG:ecs:ECs_0858
+TRINITY_DN326910_c0_g1	L2GL1_BOVIN	Lethal(2) giant larvae protein homolog 1	 Metazoa; Bovinae	.
+TRINITY_DN327142_c0_g1	MNMG_AGRFC	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:atu:Atu2831
+TRINITY_DN328344_c0_g1	RIMO_CUTAK	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Actinomycetota	KEGG:pac:PPA1006
+TRINITY_DN329904_c0_g1	MTAB_MALIO	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Tenericutes	.
+TRINITY_DN331139_c0_g1	RLMI_AERS4	Ribosomal RNA large subunit methyltransferase I {ECO:0000255|HAMAP-Rule:MF_01857}	 Pseudomonadota	KEGG:asa:ASA_2074
+TRINITY_DN332795_c0_g1	HMP_XYLFA	Flavohemoprotein {ECO:0000255|HAMAP-Rule:MF_01252}	 Pseudomonadota	KEGG:xfa:XF_0053
+TRINITY_DN334027_c0_g1	HCR_ECOLI	NADH oxidoreductase HCR	 Pseudomonadota	KEGG:ecj:JW5117`KEGG:eco:b0872
+TRINITY_DN335142_c0_g1	THIG_ACIAD	Thiazole synthase {ECO:0000255|HAMAP-Rule:MF_00443}	 Pseudomonadota	KEGG:aci:ACIAD1308
+TRINITY_DN336292_c0_g1	RSMC_SALA4	Ribosomal RNA small subunit methyltransferase C {ECO:0000255|HAMAP-Rule:MF_01862}	 Pseudomonadota	KEGG:sea:SeAg_B4877
+TRINITY_DN337179_c0_g1	THIG_MYCMM	Thiazole synthase {ECO:0000255|HAMAP-Rule:MF_00443}	 Actinomycetota	KEGG:mmi:MMAR_0720
+TRINITY_DN337880_c0_g1	HCP_BURVG	Hydroxylamine reductase {ECO:0000255|HAMAP-Rule:MF_00069}	 Pseudomonadota	KEGG:bvi:Bcep1808_5223
+TRINITY_DN338533_c0_g1	RIMO_CUTAK	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Actinomycetota	KEGG:pac:PPA1006
+TRINITY_DN339401_c0_g1	RSMC_ACIAD	Ribosomal RNA small subunit methyltransferase C {ECO:0000255|HAMAP-Rule:MF_01862}	 Pseudomonadota	KEGG:aci:ACIAD0701
+TRINITY_DN339868_c0_g1	DADA_RHIL3	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:rle:pRL120417
+TRINITY_DN341041_c0_g1	MTAB_BACSU	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Bacillota	KEGG:bsu:BSU25430
+TRINITY_DN342600_c0_g1	MNMG_SPHAL	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:sal:Sala_2854
+TRINITY_DN342670_c0_g1	DADA_DECAR	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:dar:Daro_3842
+TRINITY_DN344820_c0_g1	MIAB_STRM5	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:smt:Smal_1357
+TRINITY_DN344915_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN345349_c0_g1	L2CC_DROME	Protein l(2)37Cc	 Metazoa; Drosophilidae; Sophophora	KEGG:dme:Dmel_CG10691
+TRINITY_DN346836_c0_g1	ODP1_ECO57	Pyruvate dehydrogenase E1 component	 Pseudomonadota	KEGG:ece:Z0124`KEGG:ecs:ECs_0118
+TRINITY_DN351725_c0_g1	TPX_YERPE	Thiol peroxidase {ECO:0000255|HAMAP-Rule:MF_00269}	 Pseudomonadota	KEGG:ype:YPO2342`KEGG:ypk:y1990`KEGG:ypm:YP_2129
+TRINITY_DN353381_c0_g1	MNMA_ZYMMO	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:zmo:ZMO0769
+TRINITY_DN355386_c0_g1	RLMI_AERS4	Ribosomal RNA large subunit methyltransferase I {ECO:0000255|HAMAP-Rule:MF_01857}	 Pseudomonadota	KEGG:asa:ASA_2074
+TRINITY_DN356288_c0_g1	ARGJ_ACIAD	Arginine biosynthesis bifunctional protein ArgJ {ECO:0000255|HAMAP-Rule:MF_01106}	 Pseudomonadota	KEGG:aci:ACIAD0650
+TRINITY_DN357480_c0_g1	MTAB_CHLPN	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB	 Chlamydiae	KEGG:cpa:CP_0277`KEGG:cpj:yqeV`KEGG:cpn:CPn_0477`KEGG:cpt:CpB0496
+TRINITY_DN360616_c0_g1	DADA_VIBC3	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:vco:VC0395_A0313`KEGG:vcr:VC395_0803
+TRINITY_DN360616_c0_g1	DADA_VIBC3	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:vco:VC0395_A0313`KEGG:vcr:VC395_0803
+TRINITY_DN360616_c0_g1	DADA_VIBC3	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:vco:VC0395_A0313`KEGG:vcr:VC395_0803
+TRINITY_DN361033_c0_g1	ACCA_SYNC1	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Pseudomonadota	KEGG:pca:Pcar_1223
+TRINITY_DN361901_c0_g1	COBB_STUS1	Hydrogenobyrinate a,c-diamide synthase {ECO:0000255|HAMAP-Rule:MF_00027}	 Pseudomonadota	KEGG:psa:PST_1292
+TRINITY_DN363993_c0_g1	ACCA_ERYLH	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Pseudomonadota	KEGG:eli:ELI_04990
+TRINITY_DN364070_c0_g1	DADA_STUS1	D-amino acid dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01202}	 Pseudomonadota	KEGG:psa:PST_0483
+TRINITY_DN364887_c0_g1	ECI1_ARATH	Enoyl-CoA delta isomerase 1, peroxisomal {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G65520
+TRINITY_DN364887_c0_g2	ECI1_ARATH	Enoyl-CoA delta isomerase 1, peroxisomal {ECO:0000305}	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT1G65520
+TRINITY_DN366819_c0_g1	PUUB_ECOLI	Gamma-glutamylputrescine oxidoreductase	 Pseudomonadota	KEGG:ecj:JW1294`KEGG:eco:b1301
+TRINITY_DN368607_c0_g1	FADB_AERHH	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:aha:AHA_0139
+TRINITY_DN374121_c0_g1	RIMO_RHIWR	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:swi:Swit_0642
+TRINITY_DN374121_c0_g1	RIMO_RHIWR	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:swi:Swit_0642
+TRINITY_DN375501_c0_g1	MNMG_CYTH3	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Bacteroidota	KEGG:chu:CHU_3502
+TRINITY_DN377650_c1_g1	MNMA_EXIS2	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Bacillota	KEGG:esi:Exig_2078
+TRINITY_DN380322_c0_g1	.	.	.	.
+TRINITY_DN380368_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN381308_c0_g1	MNMA_PSEMY	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:pmy:Pmen_2399
+TRINITY_DN381491_c0_g1	SOXB_RHOCB	Sarcosine oxidase subunit beta	 Pseudomonadota	KEGG:rcp:RCAP_rcc02316
+TRINITY_DN382251_c0_g1	RIMO_PARDP	Ribosomal protein S12 methylthiotransferase RimO {ECO:0000255|HAMAP-Rule:MF_01865}	 Pseudomonadota	KEGG:pde:Pden_2010
+TRINITY_DN383356_c0_g1	RLMKL_STUS1	Ribosomal RNA large subunit methyltransferase K/L {ECO:0000255|HAMAP-Rule:MF_01858}	 Pseudomonadota	KEGG:psa:PST_2388
+TRINITY_DN383833_c0_g1	ECHP_HUMAN	Peroxisomal bifunctional enzyme {ECO:0000305}	 Metazoa; Homo	KEGG:hsa:1962
+TRINITY_DN386565_c0_g1	RLM_THET8	Ribosomal RNA large subunit methyltransferase I {ECO:0000305}	 Deinococcus-Thermus	KEGG:ttj:TTHA1280
+TRINITY_DN387726_c0_g1	MIAB_CORU7	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:cur:cu0876
+TRINITY_DN389278_c0_g1	MNMA_STRMK	tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}	 Pseudomonadota	KEGG:sml:Smlt2332
+TRINITY_DN389600_c0_g1	ACCD_PELPB	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta {ECO:0000255|HAMAP-Rule:MF_01395}	 Chlorobi	KEGG:pph:Ppha_2384
+TRINITY_DN392663_c0_g1	ACCA_SPHAL	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Pseudomonadota	KEGG:sal:Sala_1796
+TRINITY_DN392932_c0_g1	MNME_RHIWR	tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}	 Pseudomonadota	KEGG:swi:Swit_2845
+TRINITY_DN393154_c0_g1	HMP_XYLFA	Flavohemoprotein {ECO:0000255|HAMAP-Rule:MF_01252}	 Pseudomonadota	KEGG:xfa:XF_0053
+TRINITY_DN395172_c0_g1	MIAB_WOLPP	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Pseudomonadota	KEGG:wpi:WP0629
+TRINITY_DN395631_c0_g1	ODP1_MYCS2	Pyruvate dehydrogenase E1 component	 Actinomycetota	KEGG:msg:MSMEI_4223`KEGG:msm:MSMEG_4323
+TRINITY_DN396436_c0_g1	MNMG_RHIEC	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}	 Pseudomonadota	KEGG:ret:RHE_CH04122
+TRINITY_DN398201_c0_g1	ARGJ_PSEPF	Arginine biosynthesis bifunctional protein ArgJ {ECO:0000255|HAMAP-Rule:MF_01106}	 Pseudomonadota	KEGG:pfo:Pfl01_4427
+TRINITY_DN398606_c0_g1	L2GL_DROPS	Lethal(2) giant larvae protein	 Metazoa; Drosophilidae; Sophophora	KEGG:dpo:4817731
+TRINITY_DN399259_c0_g1	ECHP_DANRE	Peroxisomal bifunctional enzyme	 Metazoa; Danio	KEGG:dre:100000859
+TRINITY_DN399486_c0_g1	CDKAL_XENTR	Threonylcarbamoyladenosine tRNA methylthiotransferase	 Metazoa; Silurana	KEGG:xtr:394802
+TRINITY_DN400104_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN400634_c0_g1	RLMG_KLEP3	Ribosomal RNA large subunit methyltransferase G {ECO:0000255|HAMAP-Rule:MF_01859}	 Pseudomonadota	KEGG:kpe:KPK_0601
+TRINITY_DN401500_c0_g1	COBQ_CHLPD	Cobyric acid synthase {ECO:0000255|HAMAP-Rule:MF_00028}	 Chlorobi	KEGG:cph:Cpha266_1117
+TRINITY_DN403031_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN404329_c0_g1	FADB_ACIAD	Fatty acid oxidation complex subunit alpha {ECO:0000255|HAMAP-Rule:MF_01621}	 Pseudomonadota	KEGG:aci:ACIAD0335
+TRINITY_DN407217_c0_g1	ODP1_CUPNH	Pyruvate dehydrogenase E1 component	 Pseudomonadota	KEGG:reh:H16_A1374
+TRINITY_DN407675_c0_g1	ACCA_SPHAL	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Pseudomonadota	KEGG:sal:Sala_1796
+TRINITY_DN408242_c0_g1	HCP_PORG3	Hydroxylamine reductase {ECO:0000255|HAMAP-Rule:MF_00069}	 Bacteroidota	KEGG:pgn:PGN_1047
+TRINITY_DN408778_c0_g1	TM22_SOLLC	ToMV resistance protein Tm-2(2) {ECO:0000303|PubMed:14558663, ECO:0000303|Ref.2}	 Viridiplantae; Solanaceae; Solaneae	.
+TRINITY_DN409462_c0_g1	THIG_FUSNN	Thiazole synthase {ECO:0000255|HAMAP-Rule:MF_00443}	 Fusobacteria	KEGG:fnu:FN1754
+TRINITY_DN411032_c0_g1	ACCA_NITMU	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha {ECO:0000255|HAMAP-Rule:MF_00823}	 Pseudomonadota	KEGG:nmu:Nmul_A1810
+TRINITY_DN411521_c0_g1	ALG3_ARATH	Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G47760
+TRINITY_DN411652_c0_g1	MNMC_AROAE	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC {ECO:0000255|HAMAP-Rule:MF_01102}	 Pseudomonadota	KEGG:eba:ebA6842
+TRINITY_DN413863_c0_g1	PER17_ARATH	Peroxidase 17	 Viridiplantae; Brassicaceae; Arabidopsis	KEGG:ath:AT2G22420
+TRINITY_DN413966_c0_g1	MIAB_NOCSJ	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Actinomycetota	KEGG:nca:Noca_3847
+TRINITY_DN414850_c0_g1	MIAB_CARHZ	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase {ECO:0000255|HAMAP-Rule:MF_01864}	 Bacillota	KEGG:chy:CHY_1398
+TRINITY_DN238895_c3_g3	.	.	.	.
+TRINITY_DN242337_c0_g3	.	.	.	.
